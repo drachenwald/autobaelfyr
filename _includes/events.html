@@ -1,0 +1,107 @@
+{% for event in site.data.remote.calendar %}
+  {% if event.region == "Insulae Draconis" %}
+
+    <section class="chapter">
+      <h1 id="e-{{ event.slug }}">{{ event['event-name'] }}</h1>
+
+      {% if event.status == 'cancelled' %}
+        <p>
+          This event has been CANCELLED. Please contact the event steward for
+          more information.
+        </p>
+
+        {% if event['event-steward'] != '' %}
+          <p>
+            <strong>Event steward:</strong> {{ event['event-steward'] }}
+            {% if event['event-steward-email'] != '' %}
+              (<a href="mailto:{{ event['event-steward-email'] }}">{{ event['event-steward-email'] }}</a>)
+            {% endif %}
+          </p>
+        {% endif %}
+
+      {% else %}
+
+        <p>
+          Hosted by <strong>{{ event['host-branch'] }}</strong>
+        </p>
+
+        <p>
+          {% if event['start-date'] == event['end-date'] %}
+            <strong>Takes place:</strong> {{ event['start-date'] | date:'%A, %-d %B %Y' }}
+          {% else %}
+            <strong>Begins:</strong> {{ event['start-date'] | date:'%A, %-d %B %Y' }}<br />
+            <strong>Ends:</strong> {{ event['end-date'] | date:'%A, %-d %B %Y' }}
+          {% endif %}
+        </p>
+
+        {% if event.activities %}
+          <strong>Activities:</strong> {{ event.activities }}
+        {% endif %}
+
+        {% if event['progress-id'] == "Both" %}
+          <p>The Prince and Princess will be present.</p>
+        {% elsif event['progress-id'] == "Prince" %}
+          <p>The Prince will be present.</p>
+        {% elsif event['progress-id'] == "Princess" %}
+          <p>The Princess will be present.</p>
+        {% endif %}
+
+        {{ event.summary | markdownify }}
+
+        {% if event['site-address'] != '' %}
+          <p>
+            <strong>Site address:</strong> {{ event['site-address'] }}
+          </p>
+        {% endif %}
+
+        {% if event['event-steward'] != '' %}
+          <p>
+            <strong>Event steward:</strong> {{ event['event-steward'] }}
+            {% if event['event-steward-email'] != '' %}
+              (<a href="mailto:{{ event['event-steward-email'] }}">{{ event['event-steward-email'] }}</a>)
+            {% endif %}
+          </p>
+        {% endif %}
+
+        {% if event['reservation-info'] != '' %}
+          <p>
+            <strong>Reservation:</strong> {{ event['reservation-info'] }}
+          </p>
+        {% endif %}
+
+        {% if event.cost != '' %}
+          <p>
+            <strong>Cost:</strong> {{ event.cost }}
+          </p>
+        {% endif %}
+
+        {% if event.payment != '' %}
+          <p>
+            <strong>Payment:</strong> {{ event.payment }}
+          </p>
+        {% endif %}
+
+        {% if event['site-info'] != '' %}
+          <p>
+            <strong>Site information:</strong> {{ event['site-info'] }}
+          </p>
+        {% endif %}
+
+        {% if event.website != '' or event.facebook != '' %}
+          <p>
+            {% if event.website != '' %}
+              <strong>Website: </strong> <a href="{{ event.website }}">{{ event.website }}</a>
+              {% if event.facebook != '' %}<br />{% endif %}
+            {% endif %}
+            {% if event.facebook != '' %}
+              <strong>Facebook: </strong> <a href="{{ event.facebook }}">{{ event.facebook }}</a>
+            {% endif %}
+          </p>
+        {% endif %}
+
+      {% endif %}
+
+    </section>
+
+  {% endif %}
+{% endfor %}

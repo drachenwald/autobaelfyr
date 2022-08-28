@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <title>{{ page.title }}</title>
+    <link href="/assets/css/interface.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/baelfyr.css" rel="stylesheet" type="text/css" />
+
+    <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=EB+Garamond&family=Philosopher">
+
+    <style>
+      @page:first {
+        background-image: url('/baelfyr/{{ page.issue }}/cover.jpg');
+        background-size: cover;
+      }
+
+    </style>
+
+  </head>
+
+  <body>
+
+    {% assign chapters = site.issues | where_exp: "item", "item.path contains page.issue" %}
+
+    <section class="chapter" id="front-cover">
+      <div class="masthead">
+        The Baelfyr
+      </div>
+
+      <div class="cover-legend">
+        <span>
+          Official newsletter of the Principality of Insulae Draconis<br />
+          AS {{ page.anno }}, Volume {{ page.volume }}, Issue {{ page.issue | split:"-" | last }}, {{ page.month }}
+        </span>
+      </div>
+    </section>
+
+    <section class="chapter" id="table-of-contents">
+      <h1>Table of contents</h1>
+
+      <nav id="list-toc-generated">
+        <ul>
+          {% for chapter in chapters %}
+            <li><a href="#c-{{ chapter.slug }}">{{ chapter.title }}</a></li>
+          {% endfor %}
+
+            <li>Event announcements
+              <ul>
+                {% for event in site.data.remote.calendar %}
+                  {% if event.region == "Insulae Draconis" %}
+                    <li><a href="#e-{{ event.slug }}">{{ event['event-name'] }}</a></li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            </li>
+
+            <li>Groups
+              <ul>
+                {% for group in site.data.remote.groups %}
+                  {% if group.parent == "Insulae Draconis" %}
+                    <li><a href="#g-{{ group.group | slugify }}">{{ group.group }}</a></li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            </li>
+        </ul>
+      </nav>
+
+      <hr />
+
+      <h2>Credits</h2>
+
+      <p>
+        <strong>Cover artwork:</strong> {{ page.credits.cover }}
+      </p>
+
+      <p>
+        Masthead & cover text in Philosopher. Internal text in EB Garamond. <em>The Baelfyr</em>
+        is created with Jekyll and PagedJS.
+      </p>
+
+      <h2>
+        Subscription Information
+      </h2>
+
+      <p>
+        Subscriptions are available from the Principality Chronicler, Sela de la Rosa
+        (<a href="mailto:chronicler@insulaedraconis.org">chronicler@insulaedraconis.org</a>),
+        and will be continued without the need for renewal unless cancelled.
+        Print copies can be provided for a small charge;
+        price upon application to the Chronicler.
+      </p>
+
+      <h2>
+        Disclaimer
+      </h2>
+      
+      <p>
+        This is The Baelfyr, a publication of Insulae Draconis, of the SCA UK CIC. This newsletter is not a corporate publication of the SCA UK CIC, and does not delineate SCA policies. © Copyright 2022 SCA UK CIC. For more information on reprinting letters, artwork and articles from this publication, please contact the Chronicler, who will assist you in contacting the original creator of the piece. Please respect the rights of our contributors.
+      </p>
+
+      <h4>
+        PLEASE NOTE: The Baelfyr is published both by email and on the web. Submission for publication in the Baelfyr includes publication in both formats.
+      </h4>
+
+    </section>
+
+    {% for chapter in chapters %}
+    
+      <section class="chapter">
+        <h1 id="c-{{ chapter.slug }}">{{ chapter.title }}</h1>
+
+        {{ chapter.content }}
+
+      </section>
+
+    {% endfor %}
+
+    {% include events.html %}
+
+    {% include groups.html %}
+
+    <script src="https://scripts.drachenwald.sca.org/regnum/regnum-fetch.js"></script>
+
+  </body>
+
+</html>

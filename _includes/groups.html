@@ -1,0 +1,20 @@
+{% for group in site.data.remote.groups %}
+  {% if group.parent == "Insulae Draconis" %}
+
+    <section class="chapter">
+      <h1 id="g-{{ group.group | slugify }}">{{ group.group }}</h1>
+
+      {% assign groupslug = "Insulae Draconis-" | append: group.group %}
+      {% assign officers = site.data.remote.regnum | where: "group", groupslug %}
+
+      {% for officer in officers %}
+        <h3>{{ officer.office }}</h3>
+        <p>
+          {{ officer.scaname }} ({{ officer.mundanename }}) {{ officer.pronouns }}
+        </p>
+      {% endfor %}
+
+    </section>
+
+  {% endif %}
+{% endfor %}
