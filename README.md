@@ -72,7 +72,9 @@ Images and other assets may be placed here. When including them in the
 articles, give the URL using the `{% link %}` tag to the _source_ file
 in the repo, e.g.
 
+```
 ![Image from assets dir]({% link baelfyr/2020-10/thing.jpg %})
+```
 
 When Jekyll runs, it will translate the `{% link %}` tag to the ultimate
 destination of that file.
