@@ -1,3 +1,6 @@
+{% capture newline %}
+{% endcapture %}
+
 {% for event in site.data.remote.calendar %}
   {% if event.region == "Insulae Draconis" %}
 
@@ -71,7 +74,7 @@
 
         {% if event.cost != '' %}
           <p>
-            <strong>Cost:</strong> {{ event.cost }}
+            <em>Cost:</em> {{ event.cost | newline_to_br | replace: '<br />', '' }}
           </p>
         {% endif %}
 

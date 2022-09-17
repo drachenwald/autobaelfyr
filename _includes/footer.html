@@ -1,0 +1,130 @@
+				<br />
+			</div>
+
+
+			<nav id="footer" class="navbar navbar-expand-lg bg-primary " style="color: #ffff00">
+
+        <div class="container">
+					<div class="row">
+						<div class="col align-middle">
+
+							<br />
+
+							<ul class="list-inline">
+								<li class="list-inline-item pe-3">
+									<a href="https://www.facebook.com/insulaedraconis/" class="text-reset"><i class="fab fa-facebook"></i> Facebook</a>
+								</li>
+								<li class="list-inline-item pe-3">
+									<a href="mailto:webminister@insulaedraconis.org" class="text-reset"><i class="fas fa-envelope"></i> Email Webminister
+									</a>
+								</li>
+								<li class="list-inline-item pe-3">
+									<a href="https://membermojo.co.uk/scauk" class="text-reset" target="_self">
+										<i class="fa fa-university"></i> Get or renew your membership
+									</a>
+								</li>
+							</ul>
+
+							<dl class="row">
+								<dt class="col-12 pb-2">
+									Visit our branches:
+								</dt>
+								<dt class="col-sm-2 col-lg-1">
+									England
+								</dt>
+								<dd class="col-sm-10 col-lg-11">
+									<a class="text-reset pe-4" href="https://sites.google.com/site/depedeneunderwychwood/">Depedene</a>
+									<a class="text-reset pe-4" href="http://www.flintheath.org.uk/">Flintheath</a>
+									<a class="text-reset pe-4" href="http://pontalarch.insulaedraconis.org/">Pont Alarch</a>
+									<a class="text-reset pe-4" href="http://www.thamesreach.org/">Thamesreach</a>
+									<a class="text-reset pe-4" href="http://www.westdragonshire.org/">West Dragonshire</a>
+								</dd>
+
+								<dt class="col-sm-2 col-lg-1">
+									Iceland
+								</dt>
+								<dd class="col-sm-10 col-lg-11">
+									<a class="text-reset pe-4" href="https://www.facebook.com/klakavirki/">Klakavirki</a>
+								</dd>
+
+								<dt class="col-sm-2 col-lg-1">
+									Ireland
+								</dt>
+								<dd class="col-sm-10 col-lg-11">
+									<a class="text-reset pe-4" href="http://duninmara.org/">Dun in Mara</a>
+									<a class="text-reset pe-4" href="http://www.eplaheimr.org/">Eplaheimr</a>
+									<a class="text-reset pe-4" href="http://www.glenrathlin.org/">Glen Rathlin</a>
+									<a class="text-reset pe-4" href="https://www.facebook.com/collegeofkingeslake/">Kingeslake</a>
+								</dd>
+
+								<dt class="col-sm-2 col-lg-1">
+									Scotland
+								</dt>
+								<dd class="col-sm-10 col-lg-11">
+											<a class="text-reset pe-4" href="http://www.harpelstane.org/">Harpelstane</a>
+								</dd>
+
+								<dt class="col-sm-2 col-lg-1">
+									Wales
+								</dt>
+								<dd class="col-sm-10 col-lg-11">
+									<a class="text-reset pe-4" href="http://www.mynydd-gwyn.org.uk/">Mynydd Gwyn</a>
+								</dd>
+
+								<dt class="col-sm-2 col-lg-1">
+									Elsewhere
+								</dt>
+								<dd class="col-sm-10 col-lg-11">
+									<a class="text-reset pe-4" href="https://drachenwald.sca.org">Drachenwald (Europe &amp; South Africa)</a>
+									<a class="text-reset pe-4" href="https://sca.org/">SCA.org (Rest of World)</a>
+								</dd>
+
+
+							</dl>
+
+
+							
+
+
+
+
+
+
+							{% if site.github.repository_url %}
+								<ul class="list-inline">
+									<li class="list-inline-item pe-3">
+										<a href="{{site.github.repository_url}}/blob/main/{{ page.path }}" class="text-reset"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Edit this page on GitHub</a>
+									</li>
+									<li class="list-inline-item pe-3">
+										<a href="{{site.github.repository_url}}/issues/new?body=Path%3A%20{{ page.url }}%0D" class="text-reset"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Open an issue on GitHub</a>
+									</li>
+								</ul>
+							{% endif %}
+						
+
+							<div>
+								&copy; <script>document.write(new Date().getFullYear());</script>
+								SCA (Insulae Draconis). This is the recognised web site for the
+								Principality of Insulae Draconis in the
+								<a href="https://www.sca.org/" class="text-reset">Society for Creative Anachronism</a>.<br />
+								Copyright on all content and images remains with the creators. 
+							</div>
+
+							<br />
+
+						</div>
+					</div>
+
+        </div>
+
+      </nav>
+
+			{% if jekyll.environment == "production" %}
+			<script type="text/javascript" id="cookiebanner"
+			data-message="We use cookies for site reliability and to learn how the site is used."
+			data-moreinfo="https://www.cookiesandyou.com/"
+			data-linkmsg="How to disable cookies"
+			src="https://cdnjs.cloudflare.com/ajax/libs/cookie-banner/1.2.2/cookiebanner.min.js"></script>
+			{% endif %}
+	</body>
+</html>

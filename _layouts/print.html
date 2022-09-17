@@ -44,28 +44,15 @@
       <nav id="list-toc-generated">
         <ul>
           {% for chapter in chapters %}
-            <li><a href="#c-{{ chapter.slug }}">{{ chapter.title }}</a></li>
+            <li><span href="#c-{{ chapter.slug }}">{{ chapter.title }}</span></li>
           {% endfor %}
 
-            <li>Event announcements
-              <ul>
-                {% for event in site.data.remote.calendar %}
-                  {% if event.region == "Insulae Draconis" %}
-                    <li><a href="#e-{{ event.slug }}">{{ event['event-name'] }}</a></li>
-                  {% endif %}
-                {% endfor %}
-              </ul>
-            </li>
+          {% assign firstevent = site.data.remote.calendar | where: 'region', 'Insulae Draconis' | first %}
+          <li><span href="#e-{{ firstevent.slug }}">Upcoming Events</span></li>
 
-            <li>Groups
-              <ul>
-                {% for group in site.data.remote.groups %}
-                  {% if group.parent == "Insulae Draconis" %}
-                    <li><a href="#g-{{ group.group | slugify }}">{{ group.group }}</a></li>
-                  {% endif %}
-                {% endfor %}
-              </ul>
-            </li>
+          {% assign firstgroup = site.data.remote.groups | where: 'parent', 'Insulae Draconis' | first %}
+          <li><span href="#g-{{ firstgroup.group | slugify }}">Branches</span></li>
+
         </ul>
       </nav>
 

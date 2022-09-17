@@ -1,0 +1,53 @@
+{% include header.html %}
+
+<div id="main" class="wrapper style3">
+	<div class="container">
+		<div class="row">
+			{% if page.sidebar %}
+				<div class="col-12 col-lg-8">
+					<section id="content">
+						{{ content }}
+					</section>
+				</div>
+				<div class="col-12 col-lg-4">
+					<div class="bg-white shadow rounded p-3">
+						<section id="sidebar">
+							{% include {{ page.sidebar }}.html %}
+						</section>
+					</div>
+				</div>
+
+			{% else %}
+
+				<div class="col-12">
+					<section id="content">
+						{{ content }}
+					</section>
+				</div>
+
+			{% endif %}
+
+			<div class="d-flex justify-content-between">
+				<div class="p-2">
+					{% if page.previous %}
+						<a href="{{ page.previous.url }}" class="btn btn-primary">
+							<i class="fas fa-arrow-left"></i>
+							{{ page.previous.title }}</a>
+					{% endif %}
+				</div>
+				<div class="p-2">
+					{% if page.next %}
+						<a href="{{ page.next.url }}" class="btn btn-primary">
+							{{ page.next.title }}
+							<i class="fas fa-arrow-right"></i>
+						</a>
+					{% endif %}
+				</div>
+
+			</div>
+
+		</div>
+	</div>
+</div>
+
+{% include footer.html %}

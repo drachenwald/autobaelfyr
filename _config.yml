@@ -56,5 +56,17 @@ exclude:
   - Dockerfile
   - README.md
 
+sass:
+  sass_dir: assets/css
+
 collections:
-  - issues
+  issues:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "issues"
+    values:
+      layout: "web"
