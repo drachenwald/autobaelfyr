@@ -4,7 +4,7 @@ layout: web
 ---
 
 {% assign bpages = site.pages | where_exp: "item", "item.path contains 'baelfyr'" %}
-{% assign issues = bpages | where: "name", "index.md" %}
+{% assign issues = bpages | where: "name", "index.md" | sort: 'issue' %}
 
 <div class="d-flex align-items-start">
   <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
