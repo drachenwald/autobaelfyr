@@ -7,4 +7,4 @@ services:
       - "127.0.0.1:35729:35729"
     volumes:
       - .:/build
-    command: bash /build/_entrypoint.sh
+    command: bash /build/_bin/entrypoint.sh

@@ -7,11 +7,23 @@
       {% assign groupslug = "Insulae Draconis-" | append: group.group %}
       {% assign officers = site.data.remote.regnum | where: "group", groupslug %}
 
-      {% for officer in officers %}
-        <h3>{{ officer.office }}</h3>
-        <p>
-          {{ officer.scaname }} ({{ officer.mundanename }}) {{ officer.pronouns }}
-        </p>
+      {% for office in site.data.offices %}
+
+        {% assign officer = officers | where: "office", office.slug | first %}
+
+        {% if officer %}
+
+          <h2>{{ office.title }}</h2>
+
+          <p>
+            <b>{{ officer.scaname }}</b>
+            {% if officer.mundanename != '' %}({{ officer.mundanename }}){% endif %}
+            {% if officer.pronouns != '' %}{{ officer.pronouns }}{% endif %}
+            {% if officer.email != '' %}<br />Email <a href="mailto:{{ officer.email}}">{{ officer.email }}</a>{% endif %}
+          </p>
+
+        {% endif %}
+
       {% endfor %}
 
     </section>

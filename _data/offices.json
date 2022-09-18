@@ -1,0 +1,14 @@
+[
+  { "slug": "seneschal", "title": "Seneschal", "desc": "The Seneschal is the chair of the group." },
+  { "slug": "exchequer", "title": "Exchequer", "desc": "The Exchequer manages the finances of the group." },
+  { "slug": "chatelaine", "title": "Chatelaine", "desc": "The Castellan, also known as the Chatelaine, is responsible for assisting newcomers find their way in the group. They are here to help, so don't be afraid to ask!" },
+  { "slug": "moas", "title": "Minister of Arts and Sciences", "desc": "The Minister of Arts and Sciences of the group oversees arts and sciences within the group." },
+  { "slug": "herald", "title": "Herald", "desc": "The Herald oversees activities including researching names and devices, and also heralding at important events." },
+  { "slug": "armoured-combat-marshal", "title": "Armoured Combat Marshal", "desc": "The Armoured Combat Marhsal oversees all aspects of armoured combat in the group." },
+  { "slug": "archery-thrown-marshal", "title": "Archery Marshal", "desc": "The Archery Marshal of the group oversees archery activities within the group." },
+  { "slug": "fencing-marshal", "title": "Fencing Marshal", "desc": "The Fencing Marshal oversees all aspects of fencing combat in the group." },
+  { "slug": "chronicler", "title": "Chronicler", "desc": "The Chronicler is responsible for the group's publications." },
+  { "slug": "signet", "title": "Signet Clerk", "desc": "The Signet is an officer whose responsibility is coordinating the production of those scrolls given out with awards." },
+  { "slug": "webminister", "title": "Web Minister", "desc": "The Web Minister is responsible for the group's website." },
+  { "slug": "socialmedia", "title": "Social Media Minister", "desc": "The Social Media Minister is responsible for the group's social media presence." }
+]
