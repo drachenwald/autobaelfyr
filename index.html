@@ -45,9 +45,11 @@ layout: web
           <a class="btn btn-primary" href="https://insulaedraconis.org/library/useful-resources/findingalocalgroup/"><i class="fas fa-map-signs"></i> Groups</a>
         </p>
 
-        <p>
-          <a class="btn btn-primary" href="{{issue.url}}"><i class="fas fa-print"></i> Printable version</a>
-        </p>
+        {% if forloop.first %}
+          <p>
+            <a class="btn btn-primary" href="{{issue.url}}"><i class="fas fa-print"></i> Printable version</a>
+          </p>
+        {% endif %}
 
       </div>
     {% endfor %}
