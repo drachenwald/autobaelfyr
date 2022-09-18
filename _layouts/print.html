@@ -15,6 +15,7 @@
       @page:first {
         background-image: url('/baelfyr/{{ page.issue }}/cover.jpg');
         background-size: cover;
+        bleed: 10mm;
       }
 
     </style>
@@ -110,7 +111,10 @@
 
     {% include groups.html %}
 
-    <script src="https://scripts.drachenwald.sca.org/regnum/regnum-fetch.js"></script>
+    <section class="chapter backcover">
+      <h1 id="backcover">Principality Map</h1>
+      <img src="/assets/img/id-map.jpg" style="width: 95%;"/>
+    </section>
 
   </body>
 
