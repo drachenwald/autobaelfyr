@@ -27,15 +27,27 @@ layout: web
           AS {{ issue.anno }}, Volume {{ issue.volume }}, Issue {{ issue.issue | split:"-" | last }}, {{ issue.month }}
         </h4>
 
+        <br />
+
         {% assign chapters = site.issues | where_exp: "item", "item.path contains issue.issue" %}
 
-        <ul>
+        <div class="list-group">
           {% for chapter in chapters %}
-            <li><a href="{{chapter.url}}">{{ chapter.title }}</a></li>
+            <a href="{{chapter.url}}" class="list-group-item list-group-item-action">{{ chapter.title }}</a>
           {% endfor %}
-        </ul>
+        </div>
 
-        <a class="btn btn-primary" href="{{issue.url}}"><i class="fas fa-print"></i> Printable version</a>
+        <br />
+
+        <p>
+          <a class="btn btn-primary" href="https://insulaedraconis.org/events/"><i class="fas fa-calendar"></i> Events calendar</a>
+          <a class="btn btn-primary" href="https://insulaedraconis.org/governance/find-an-officer/"><i class="fas fa-users"></i> Officers</a>
+          <a class="btn btn-primary" href="https://insulaedraconis.org/library/useful-resources/findingalocalgroup/"><i class="fas fa-map-signs"></i> Groups</a>
+        </p>
+
+        <p>
+          <a class="btn btn-primary" href="{{issue.url}}"><i class="fas fa-print"></i> Printable version</a>
+        </p>
 
       </div>
     {% endfor %}
