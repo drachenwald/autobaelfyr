@@ -24,7 +24,8 @@ layout: web
       aria-labelledby="v-pills-{{forloop.index}}-tab" tabindex="0">
 
         <h4>
-          AS {{ issue.anno }}, Volume {{ issue.volume }}, Issue {{ issue.issue | split:"-" | last }}, {{ issue.month }}
+          AS {{ issue.anno }} Volume {{ issue.volume }}, Issue {{ issue.issue | split:"-" | last }}.<br />
+          {{ issue.month }}.
         </h4>
 
         <br />
