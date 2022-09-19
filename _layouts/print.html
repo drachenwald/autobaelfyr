@@ -101,6 +101,10 @@
       <section class="chapter">
         <h1 id="c-{{ chapter.slug }}">{{ chapter.title }}</h1>
 
+        {% if chapter.author %}
+          <h3 style="text-align: right;">By {{ chapter.author }}</h3>
+        {% endif %}
+
         {{ chapter.content }}
 
       </section>

@@ -94,3 +94,8 @@ blockquote {
 table {
 	@extend .table;
 }
+
+img {
+	@extend .img-fluid;
+	@extend .rounded;
+}

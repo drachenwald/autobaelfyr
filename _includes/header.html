@@ -128,6 +128,9 @@
         {% if page.subtitle %}
           <h1 class="display-5 pt-5">{{ page.title }}</h1>
           <h3 class="pb-5">{{ page.subtitle }}</h3>
+        {% elsif page.author %}
+          <h1 class="display-5 pt-5">{{ page.title }}</h1>
+          <h3 class="pb-5">By {{ page.author }}</h3>
         {% else %}
           <h1 class="display-5 pt-5 pb-5">{{ page.title }}</h1>
         {% endif %}
