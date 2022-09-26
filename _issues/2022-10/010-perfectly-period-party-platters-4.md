@@ -17,9 +17,12 @@ It really doesn’t make that much difference — when you’re putting a well-b
 
 Here’s the previous list of cheeses ordered by category, according to the first version I list above. The point isn’t necessarily to be proscriptive about it – it’s important to eat cheese that you like – but for this to be a place to begin. There are what seems to be an infinite number of cheeses available in Italy, these days, but all the ones listed here can be dated to the 16th century or earlier.
 
-![List of cheeses ordered by category](/baelfyr/2022-10/pppp-cheeses.jpg)
-
-Choose your own adventure
+<figure class="figure">
+    <img src="/baelfyr/2022-10/pppp-cheeses.jpg"
+        class="figure-img rounded"
+        alt="List of cheeses ordered by category">
+    <figcaption class="figure-caption text-center">Choose your own adventure</figcaption>
+</figure>
 
 ## Italian Cheese Plates: a primer
 

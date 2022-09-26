@@ -125,4 +125,47 @@
     content: target-counter(attr(href), page);
     float: right;
   }
+
+  .col2 {
+    float: left;
+    width: 50%;
+    padding: 5px;
+  }
+  
+  .col3 {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+
+  .figure {
+    width: 100%;
+    margin-block-start: 0;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+
+  .figure-caption {
+    text-align: center;
+    font-size: smaller;
+    font-style: italic;
+  }
+
+  .col2 {
+    float: left;
+    width: 50%;
+    padding: 5px;
+  }
+  
+  .col3 {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  .gallery {
+    display:block;
+    float:right;
+  }
 }

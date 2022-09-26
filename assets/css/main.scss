@@ -99,3 +99,20 @@ img {
 	@extend .img-fluid;
 	@extend .rounded;
 }
+
+.col2 {
+	float: left;
+	width: 50%;
+	padding: 5px;
+}
+
+.col3 {
+	float: left;
+	width: 33.33%;
+	padding: 5px;
+}
+
+.gallery {
+	display:block;
+	float:right;
+}
