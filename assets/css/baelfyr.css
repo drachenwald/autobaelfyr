@@ -146,6 +146,10 @@
     margin-inline-end: 0px;
   }
 
+  .figure img {
+    border-radius: 5px;
+  }
+
   .figure-caption {
     text-align: center;
     font-size: smaller;
