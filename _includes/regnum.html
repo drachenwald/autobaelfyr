@@ -1,0 +1,55 @@
+<section class="chapter">
+  <h1 id="regnum">Insulae Draconis Regnum</h1>
+
+  {% assign sovereign = site.data.remote.regnum | where:"group", "Insulae Draconis" | where:"office", "royalty" | where:"responsibility", "left" | first %}
+  
+  {% assign consort = site.data.remote.regnum | where:"group", "Insulae Draconis" | where:"office", "royalty" | where: 'responsibility', 'right' | first %}
+
+  <h2>Prince {{ sovereign.scaname }} and Princess {{ consort.scaname }}</h2>
+
+  <a href="mailto:{{ sovereign.email }}">{{ sovereign.email }}</a><br />
+  <a href="mailto:{{ consort.email }}">{{ consort.email }}</a>
+
+  <p>
+    Their Highnesses' Progress can be seen on <a href="https://insulaedraconis.org/events/">the Principality Calendar</a>.
+  </p>
+
+  {% for role in site.data.offices %}
+
+    {% assign officers = site.data.remote.regnum | where:"group", "Insulae Draconis" | where:"office", role.slug | sort: 'responsibility' %}
+
+    {% assign numofficers = officers|size %}
+
+    {% if numofficers > 0 %}
+
+      {% for officer in officers %}
+
+        {% if forloop.first %}
+          <h3>{% if officer.responsibility == " " %}{{ role.title }}{% else %}{{ officer.responsibility }}{% endif %}</h3>
+        {% else %}
+          <h6>{{ officer.responsibility }}</h6>
+        {% endif %}
+
+        <p><strong>{{ officer.scaname }}</strong>
+
+        {% unless officer.mundanename == "" %}
+          ({{ officer.mundanename }})
+        {% endunless %}
+
+        {% unless officer.pronouns == "" %}
+          <span class="text-muted">{{ officer.pronouns }}</span>
+        {% endunless %}<br>
+
+        {% unless officer.email == "" %}
+          <strong>Contact:</strong> <a href="mailto:{{ officer.email }}">{{ officer.email }}</a>
+        {% endunless %}
+
+        </p>
+
+      {% endfor %}
+
+    {% endif %}
+
+  {% endfor %}
+
+</section>

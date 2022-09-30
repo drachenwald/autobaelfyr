@@ -1,0 +1,33 @@
+<section class="chapter">
+  <h1 id="hamlets">Hamlets</h1>
+
+  {% for hamlet in site.data.remote.hamlets %}
+
+    {% assign groupslug = "Insulae Draconis-" | append: hamlet.sponsor %}
+    {% assign seneschal = site.data.remote.regnum | where: "group", groupslug | where: "office", "seneschal" | first %}
+
+    <h2>{{ hamlet.name }}</h2>
+
+    <p>
+      {% if hamlet.translation %}<em>({{hamlet.translation}})</em><br />{% endif %}
+      A {{ hamlet.style }} in {{ hamlet.sponsor | capitalize }}{% if hamlet.location %}, covering {{ hamlet.location }}{% endif %}.
+    </p>
+    
+    <p>
+      Seneschal: {{ seneschal.scaname }}
+      {% if seneschal.email %}(<a href="mailto:{{ seneschal.email }}">{{ seneschal.email }}</a>){% endif %}
+      {% if hamlet.sheriff %}
+        <br />Sheriff: {{ hamlet.sheriff }}
+        {% if hamlet.contact %}(<a href="mailto:{{ hamlet.contact }}">{{ hamlet.contact }}</a>){% endif %}
+      {% endif %}
+    </p>
+
+    {% if hamlet.website %}
+      <p>
+        Website: <a href="{{ hamlet.website }}">{{ hamlet.website }}</a>
+      </p>
+    {% endif %}
+
+  {% endfor %}
+
+</section>
