@@ -12,7 +12,7 @@ So I'm thrilled to announce that this edition of the Baelfyr has been simultaneo
 
 Event announcements and officer details now also come directly from the kingdom calendar and regnum. If you have event information to update, use the link that was emailed to you by the calendar system, and I'll get the update here too. If your officer information needs to be corrected, you can do that at [http://drachenwald.sca.org/forms](http://drachenwald.sca.org/forms)
 
-I'll be really glad to hear what you think about this edition. Drop me a message at [chronicler@insualedraconis.org](mailto:chronicler@insulaedraconis.org).
+I'll be really glad to hear what you think about this edition. Drop me a message at [chronicler@insulaedraconis.org](mailto:chronicler@insulaedraconis.org).
 
 In service,  
 Sela (patent pending)
