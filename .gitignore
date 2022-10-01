@@ -4,6 +4,8 @@ _site
 .jekyll-metadata
 /vendor/
 
+.DS_Store
+
 
 _data/remote/*
 !_data/remote/.gitkeep
