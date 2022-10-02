@@ -59,6 +59,8 @@ exclude:
 sass:
   sass_dir: assets/css
 
+permalink: pretty
+
 collections:
   issues:
     output: true
