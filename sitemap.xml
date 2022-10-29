@@ -12,10 +12,12 @@ layout: none
   {% for issue in issues reversed %}
     {% assign chapters = site.issues | where_exp: "item", "item.path contains issue.issue" -%}
     {% for chapter in chapters %}
-      <url>
-          <loc>{{ site.url }}{{ chapter.url }}</loc>
-          <changefreq>yearly</changefreq>
-      </url>
+      {% unless chapter.path contains '000-preamble' %}
+        <url>
+            <loc>{{ site.url }}{{ chapter.url }}</loc>
+            <changefreq>yearly</changefreq>
+        </url>
+      {% endunless %}
     {% endfor %}
   {% endfor %}
 </urlset> 

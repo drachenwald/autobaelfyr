@@ -72,3 +72,10 @@ defaults:
       type: "issues"
     values:
       layout: "web"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      title: "The Baelfyr"
+      subtitle: "Newsletter of Insulae Draconis"

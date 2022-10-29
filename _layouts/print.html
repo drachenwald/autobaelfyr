@@ -1,8 +1,16 @@
 <!doctype html>
 <html lang="en">
 
+  {% assign bpages = site.issues | where_exp: "item", "item.path contains '000-preamble'" %}
+  {% assign issues = bpages | sort: 'issue' %}
+  {% assign latest = issues | last %}
+
+  {% assign preamble = bpages | last %}
+
+  {% assign chapters = site.issues | where_exp: "item", "item.path contains preamble.issue" %}
+
   <head>
-    <title>The Baelfyr {{ page.month }}</title>
+    <title>The Baelfyr {{ preamble.month }}</title>
     <link href="/assets/css/interface.css" rel="stylesheet" type="text/css" />
     <link href="/assets/css/baelfyr.css" rel="stylesheet" type="text/css" />
 
@@ -10,11 +18,10 @@
 
     <style>
       @page:first {
-        background-image: url('/baelfyr/{{ page.issue }}/cover.jpg');
+        background-image: url('/baelfyr/{{ preamble.issue }}/cover.jpg');
         background-size: cover;
         bleed: 10mm;
       }
-
     </style>
 
     <meta name="robots" content="noindex">
@@ -23,18 +30,18 @@
 
   <body>
 
-    {% assign chapters = site.issues | where_exp: "item", "item.path contains page.issue" %}
-
     <section class="chapter" id="front-cover">
-      <div class="masthead">
-        The Baelfyr
-      </div>
-
-      <div class="cover-legend">
-        <span>
-          Official newsletter of the Principality of Insulae Draconis<br />
-          AS {{ page.anno }}, Volume {{ page.volume }}, Issue {{ page.issue | split:"-" | last }}, {{ page.month }}
-        </span>
+      <div class="backing-box">
+        <div class="masthead">
+          The Baelfyr
+        </div>
+  
+        <div class="cover-legend">
+          <span>
+            Official newsletter of the Principality of Insulae Draconis<br />
+            AS {{ preamble.anno }}, Volume {{ preamble.volume }}, Issue {{ preamble.issue | split:"-" | last }}, {{ preamble.month }}
+          </span>
+        </div>
       </div>
     </section>
 
@@ -44,7 +51,9 @@
       <nav id="list-toc-generated">
         <ul>
           {% for chapter in chapters %}
-            <li><span href="#c-{{ chapter.slug }}">{{ chapter.title }}</span></li>
+            {% unless chapter.path contains '000-preamble' %}
+              <li><span href="#c-{{ chapter.slug }}">{{ chapter.title }}</span></li>
+            {% endunless %}
           {% endfor %}
 
           {% assign firstevent = site.data.remote.calendar | where: 'region', 'Insulae Draconis' | first %}
@@ -63,21 +72,30 @@
       <h2>Credits</h2>
 
       <p>
-        <strong>Cover artwork:</strong> {{ page.credits.cover }}
+        <strong>Cover artwork:</strong> {{ preamble.credits.cover }}
       </p>
 
       <p>
         Masthead & cover text in Philosopher. Internal text in EB Garamond. <em>The Baelfyr</em>
         is created with Jekyll and PagedJS.
+        Send submissions for publication to
+        <a href="mailto:chronicler@insulaedraconis.org">chronicler@insulaedraconis.org</a>; plain text with
+        images separately attached is preferred.
+        <a href="https://daringfireball.net/projects/markdown/basics">Markdown formatting</a> may optionally be used.
       </p>
+
+      <h4>
+        PLEASE NOTE: The Baelfyr is published both by email and on the web. Submission for publication
+        in the Baelfyr includes publication in both formats.
+      </h4>
 
       <h2>
         Subscription Information
       </h2>
 
       <p>
-        Subscriptions are available from the Principality Chronicler, Sela de la Rosa
-        (<a href="mailto:chronicler@insulaedraconis.org">chronicler@insulaedraconis.org</a>),
+        Subscriptions are available by emailing
+        <a href="mailto:baelfyr+subscribe@insulaedraconis.org">baelfyr+subscribe@insulaedraconis.org</a>,
         and will be continued without the need for renewal unless cancelled.
         Print copies can be provided for a small charge;
         price upon application to the Chronicler.
@@ -88,27 +106,33 @@
       </h2>
       
       <p>
-        This is The Baelfyr, a publication of Insulae Draconis, of the SCA UK CIC. This newsletter is not a corporate publication of the SCA UK CIC, and does not delineate SCA policies. © Copyright 2022 SCA UK CIC. For more information on reprinting letters, artwork and articles from this publication, please contact the Chronicler, who will assist you in contacting the original creator of the piece. Please respect the rights of our contributors.
-      </p>
-
-      <h4>
-        PLEASE NOTE: The Baelfyr is published both by email and on the web. Submission for publication in the Baelfyr includes publication in both formats.
-      </h4>
+        This is The Baelfyr, a publication of Insulae Draconis, of the SCA UK CIC. This newsletter is not a
+        corporate publication of the SCA UK CIC, and does not delineate SCA policies.
+        &copy; <script>document.write(new Date().getFullYear());</script> SCA UK CIC. For more information on
+        reprinting letters, artwork and articles from this publication, please contact the Chronicler,
+        <a href="mailto:chronicler@insulaedraconis.org">chronicler@insulaedraconis.org</a>,
+        who will assist you in contacting the original creator of the piece. Please respect the rights of our
+        contributors.
+      </p>  
 
     </section>
 
     {% for chapter in chapters %}
+
+      {% unless chapter.path contains '000-preamble' %}
     
-      <section class="chapter">
-        <h1 id="c-{{ chapter.slug }}">{{ chapter.title }}</h1>
+        <section class="chapter">
+          <h1 id="c-{{ chapter.slug }}">{{ chapter.title }}</h1>
 
-        {% if chapter.author %}
-          <h3 style="text-align: right;">By {{ chapter.author }}</h3>
-        {% endif %}
+          {% if chapter.author %}
+            <h3 style="text-align: right;">By {{ chapter.author }}</h3>
+          {% endif %}
 
-        {{ chapter.content }}
+          {{ chapter.content }}
 
-      </section>
+        </section>
+      
+      {% endunless %}
 
     {% endfor %}
 
@@ -120,9 +144,8 @@
 
     {% include regnum.html %}
 
-    <section class="chapter backcover">
-      <h1 id="backcover">Principality Map</h1>
-      <img src="/assets/img/id-map.jpg" style="width: 95%;"/>
+    <section class="chapter" id="backcover">
+      <h1 style="display: none;">Principality Map</h1>
     </section>
 
   </body>
