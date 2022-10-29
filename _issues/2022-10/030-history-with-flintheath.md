@@ -1,6 +1,7 @@
 ---
 title: "History with Flintheath"
 author: Rebecca of Flintheath
+feed: 2022-10-06
 ---
 
 _Originally posted 1st September 2022_

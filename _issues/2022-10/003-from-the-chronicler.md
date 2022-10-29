@@ -1,5 +1,6 @@
 ---
 title: From the Chronicler
+feed: 2022-10-03
 ---
 
 Greetings, friends!

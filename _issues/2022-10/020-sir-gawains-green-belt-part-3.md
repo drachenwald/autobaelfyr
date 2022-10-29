@@ -1,6 +1,7 @@
 ---
 title: "Sir Gawain’s Green Belt Part 3"
 author: Rebecca of Flintheath
+feed: 2022-10-05
 ---
 
 For the final stage of my Golden Egg project (see Part 1 in the Baelfyr AS LVI 29(3) and at [https://flintheath-as.dreamwidth.org/2570.html](https://flintheath-as.dreamwidth.org/2570.html) and Part 2 in the Baelfyr AS LVI 29(6) and at [https://flintheath-as.dreamwidth.org/2981.html](https://flintheath-as.dreamwidth.org/2981.html)), it was time to make the girdle itself using silk.
