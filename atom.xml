@@ -11,14 +11,16 @@ layout: none
 <id>{{ site.url }}</id>
 <title type="html">The Baelfyr</title>
 <subtitle>The Newsletter of the Principality of Insualae Draconis</subtitle>
-{%- assign chapters = site.issues | sort: 'feed' -%}
+{%- assign chapters = site.issues | sort: 'feed', 'first' -%}
 {%- assign buildtime = site.time | date: "%s" | plus: 0 -%}
-{%- for chapter in chapters reversed | limit: 100 -%}
+{%- for chapter in chapters reversed -%}
+{%- if forloop.index < 100 -%}
 {%- if chapter.feed -%}
 {%- assign chapterfeedtime = chapter.feed | date:"%s" | plus: 0 -%}
-{%- if chapterfeedtime < buildtime -%}
+{% if chapterfeedtime < buildtime %}
+
 <entry>
-<title type="html">chapter.title</title>
+<title type="html">{{ chapter.title }}</title>
 <link href="{{ site.url }}{{ chapter.url }}" rel="alternate" type="text/html" title="{{ chapter.title }}"/>
 <published>{{ chapter.feed }}T00:00:00+00:00</published>
 <updated>{{ chapter.feed }}T00:00:00+00:00</updated>
@@ -35,6 +37,8 @@ layout: none
 {{ chapter.excerpt }}
 </summary>
 </entry>
+
+{% endif %}
 {%- endif -%}
 {%- endif -%}
 {%- endfor -%}
