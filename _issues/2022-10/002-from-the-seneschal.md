@@ -1,5 +1,6 @@
 ---
 title: From the Seneschal
+feed: 2022-10-02
 ---
 
 Greetings to you all!

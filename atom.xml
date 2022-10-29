@@ -1,0 +1,45 @@
+---
+layout: none
+---
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="{{ site.url }}" version="0.0.1">Automatic Baelfyr</generator>
+
+<link href="{{ site.url }}/atom.xml" rel="self" type="application/atom+xml"/>
+<link href="{{ site.url }}" rel="alternate" type="text/html"/>
+<updated>2022-10-25T06:29:25+00:00</updated>
+<id>{{ site.url }}</id>
+<title type="html">The Baelfyr</title>
+<subtitle>The Newsletter of the Principality of Insualae Draconis</subtitle>
+{%- assign chapters = site.issues | sort: 'feed', 'first' -%}
+{%- assign buildtime = site.time | date: "%s" | plus: 0 -%}
+{%- for chapter in chapters reversed -%}
+{%- if forloop.index < 100 -%}
+{%- if chapter.feed -%}
+{%- assign chapterfeedtime = chapter.feed | date:"%s" | plus: 0 -%}
+{% if chapterfeedtime < buildtime %}
+
+<entry>
+<title type="html">{{ chapter.title }}</title>
+<link href="{{ site.url }}{{ chapter.url }}" rel="alternate" type="text/html" title="{{ chapter.title }}"/>
+<published>{{ chapter.feed }}T00:00:00+00:00</published>
+<updated>{{ chapter.feed }}T00:00:00+00:00</updated>
+<id>
+{{ site.url }}{{ chapter.url }}
+</id>
+<content type="html" xml:base="{{ site.url }}{{ chapter.url }}">
+{{ chapter.content }}
+</content>
+<author>
+<name/>
+</author>
+<summary type="html">
+{{ chapter.excerpt }}
+</summary>
+</entry>
+
+{% endif %}
+{%- endif -%}
+{%- endif -%}
+{%- endfor -%}
+</feed>

@@ -1,5 +1,6 @@
 ---
 title: From their Highnesses
+feed: 2022-10-01
 ---
 
 Unto the populace of Insulae Draconis do Ranulf &amp; Euphrosyne send peace and warm

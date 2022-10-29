@@ -1,6 +1,7 @@
 ---
 title: "Perfectly Period Party Platters, Part IV: The Finale"
 author: Marcella di Cavallino
+feed: 2022-10-04
 ---
 
 In which we conclude our whistle-stop tour and you’re set free, armed with useful knowledge and skills. More or less.
