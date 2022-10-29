@@ -21,6 +21,12 @@ layout: web
         {{ thisissue.month }}
       </h4>
 
+      {% if thisissue.issue == latest.issue %}
+        <div class="text-center">
+          <a class="btn btn-primary m-3 shadow" href="/latest/"><i class="fas fa-print"></i> Printable version</a>
+        </div>
+      {% endif %}
+
       <br />
 
       {% assign chapters = site.issues | where_exp: "item", "item.path contains thisissue.issue" %}
@@ -36,19 +42,11 @@ layout: web
         {% endfor %}
       </div>
 
-      <br />
-
-      <p>
+      <div class="text-center my-4">
         <a class="btn btn-primary m-2 shadow" href="https://insulaedraconis.org/events/"><i class="fas fa-calendar"></i> Events calendar</a>
         <a class="btn btn-primary m-2 shadow" href="https://insulaedraconis.org/governance/find-an-officer/"><i class="fas fa-users"></i> Officers</a>
         <a class="btn btn-primary m-2 shadow" href="https://insulaedraconis.org/library/useful-resources/findingalocalgroup/"><i class="fas fa-map-signs"></i> Groups</a>
-      </p>
-
-      {% if thisissue.issue == latest.issue %}
-        <p>
-          <a class="btn btn-primary m-2 shadow" href="/latest/"><i class="fas fa-print"></i> Printable version</a>
-        </p>
-      {% endif %}
+      </div>
 
     </div>
 
