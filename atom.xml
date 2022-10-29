@@ -7,7 +7,7 @@ layout: none
 
 <link href="{{ site.url }}/atom.xml" rel="self" type="application/atom+xml"/>
 <link href="{{ site.url }}" rel="alternate" type="text/html"/>
-<updated>2022-10-25T06:29:25+00:00</updated>
+<updated>{{ site.time | date_to_xmlschema }}</updated>
 <id>{{ site.url }}</id>
 <title type="html">The Baelfyr</title>
 <subtitle>The Newsletter of the Principality of Insualae Draconis</subtitle>
