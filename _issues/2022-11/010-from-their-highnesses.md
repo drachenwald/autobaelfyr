@@ -32,4 +32,4 @@ Prince & Princess of Insulae Draconis
 * Please reach each out to us with your event plans so we can help support the local groups.
 * Submit Letters of Intent for Coronet Tournament.
 * The cutoff to submit your Letter of Intent is January 1, 2023.
-* Each pair entering Coronet Tournament
+* Each pair entering Coronet Tournament must submit a modest A&S project.
