@@ -31,7 +31,7 @@ photogenic of sites. The sunshine, the feasting, the courts and the fun has been
 across the various social media platforms.
 
 Baronial events abound in Eplaheimr. Their energy is boundless and opportunities across that
-fair land have been duly exploited. I was also heartened to see that Klakivirki hosted His
+fair land have been duly exploited. I was also heartened to see that Klakavirki hosted His
 Majesty at their first in-person event since the Before Times. This quarter’s report has been
 full of news of workshops, armouring days, online discourses, feasts, revels, and fighter
 practices. I myself was down in Exeter, in the South West reaches of West Dragonshire,
@@ -153,7 +153,6 @@ support the membership in travel, but without a consistent and up to date approa
 as a steady income into the Principality pots, we will not be in a position to support these
 aims. Prior to COVID, the funding level was steadily being drawn down. Bourn 2022 lost a
 serious amount of money for the Principality and is the driver behind a stronger planning cycle
-
 for next year. While it is a good thing to have a reasonable reserve, we cannot absorb too
 many more such losses.
 
