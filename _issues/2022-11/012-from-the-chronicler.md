@@ -5,7 +5,7 @@ feed: 2022-11-03
 
 Greetings, friends!
 
-An erratum: I'm still tweaking my Baelfyr machine, and ommitted
+An erratum: I'm still tweaking my Baelfyr machine, and omitted
 the Captain of Archers from the list of principality officers last month.
 My apologies to Kier of Eplaheimr.
 
