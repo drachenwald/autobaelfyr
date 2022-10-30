@@ -32,4 +32,9 @@ I had a lot of great conversations, got to talk to people about the crafts they 
 
 Thanks again for putting on such a great event and making me feel welcome as a new person!
 
-<img src="/baelfyr/2022-11/harvesttide.jpg" style="max-width: 100%; height: auto;" alt="The courtyard at Drimnagh Castle">
+<figure class="figure">
+    <img src="/baelfyr/2022-11/harvesttide.jpg"
+        class="figure-img rounded"
+        alt="The courtyard at Drimnagh Castle">
+    <figcaption class="figure-caption text-center">Photo by Sabrina</figcaption>
+</figure>
