@@ -61,3 +61,82 @@ occasionally.
 Taste before serving, and sprinkle with the rest of the mint.
 
 Serve with rice, bulgur, or flatbreads.
+
+{% comment %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Tuffahiyya (Lamb stew with apples)",
+  "image": [
+        ""
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Milada von Schnecken"
+  },
+  "datePublished": "2022-11-01",
+  "description": "A medieval lamb stew with apples",
+  "recipeCuisine": "Andalusian",
+  "keywords": "medieval, lamb, stew, andalusian",
+  "recipeYield": "1 serving",
+  "recipeCategory": "main course",
+  "recipeIngredient": [
+    "lamb",
+    "apples",
+    "quinces",
+    "lemon",
+    "salt",
+    "pepper",
+    "ground coriander",
+    "saffron",
+    "oil",
+    "sugar",
+    "rose water",
+    "mastic",
+    "mint"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Peel, core, and roughly dice the apples, putting them into lemon water to keep fresh."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel, core, and dice the quinces, likewise in lemon water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Finely dice mint."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Finely grind the mastic with a little salt and sugar in the mortar and pestle."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put saffron in a mug with hot water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Brown the meat in a pan with oil, spicing it with salt, pepper, and coriander. Then put it in an oven
+dish with oil (if needed), lemon juice and the saffron water. Check now and again that it doesn&#39;t
+bake dry, adding water if needed, and let bake until almost good. (If there is no oven space or dish,
+keep it on the fire in a large pot.)"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drain the apples and quinces and add them to the meat, stirring them into the sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season to taste. Taste before serving, and sprinkle with the rest of the mint."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve with rice, bulgur, or flatbreads."
+    }
+  ]
+}
+</script>
+{% endcomment %}

@@ -25,9 +25,10 @@ Two. Seconds, as anyone who has eaten one of Master Alexandres feasts will say, 
 Three. Orders, have asked this man to be one of their members, the Laurels, the Pelicans and the order of Defence. 
 And 4. Quarter, is what he will give to his opponents on this field today when they fall before him.
 
-Additionally, have you seen him? Look, look at that hair, LOOK at that hair! I mean, I was looking at it this   morning and I was thinking, Maybe he's born with it, maybe it's Majesty!  
+Additionally, have you seen him? Look, look at that hair, LOOK at that hair! I mean, I was looking at it this
+morning and I was thinking, Maybe he's born with it, maybe it's Majesty!  
 
-With regards to Lady Agnes, I genuinely, genuinely struggled  to properly come up with a boast for Lady Agnes.  
+With regards to Lady Agnes, I genuinely, genuinely struggled to properly come up with a boast for Lady Agnes.  
 Not because she is not worthy of this, she is manifestly worthy.  
 Eventually yesterday, on my travels here I realised,  the word for Lady Agnes is Solid.  
 Lady Agnes is the Bedrock of fighting in this kingdom, she is the Oak Beam that holds the walls up.  
@@ -81,7 +82,7 @@ Hodie pugnant ad coronae
 
 Your Majesties, your Highnesses, your excellencies and everyone else!  
 I am Joel ben Stuart, you know who I am!  
-When I win this this tournament I will be but on eof a line of men who have won this great honour.
+When I win this this tournament I will be but one of a line of men who have won this great honour.
 
 BUT this is Valda ingen Caom… you also know who she is!  
 When she wins this tournament every one will wish that they were at the event where it happened!  
@@ -93,7 +94,7 @@ How the sausage gets made
 We just assume events happen,  
 And wish that we where at the event where it happened!  
 On day Dame Lyonet was on our doorstep in distress and disarray,  
-Lyonet said “I’ve nowhere else to turn.” And basically begger her to join the fray.  
+Lyonet said “I’ve nowhere else to turn.” And basically begged her to join the fray.  
 She approached Brighthelm and said, “I know you’re villains but lets hear what she’s going to pay!”  
 Well she arranged this beating! She arranged the menu, the venue and the seating!  
 And we wish to be at the event where it happens!
@@ -114,10 +115,14 @@ And we wish to be at the event where it happens!
 Make way, make way for Countess Anna von Urwald, founding baroness of Aarnimetsa,
 who inspired Marcus Eisenwald to victory in Insulae Draconis!
 
-Deadly with a sword - dragon's steel and defender both - more devastating still in her magnificent attire, her snow white defender's collar blinds her opponents! Her deep, dark, beautiful and costly black gown strikes terror in their hearts...
+Deadly with a sword - dragon's steel and defender both - more devastating still in her
+magnificent attire, her snow white defender's collar blinds her opponents! Her deep, dark,
+beautiful and costly black gown strikes terror in their hearts...
 ...but fear not for your safety today!
 
-Today she lends her inspiration to Lord Valdemar Rodvilde, squire of her household, guardian of the Vita Porten, to mighty deeds in her name, to advance her renown, and ensure the line of Drachenwald.
+Today she lends her inspiration to Lord Valdemar Rodvilde, squire of her household,
+guardian of the Vita Porten, to mighty deeds in her name, to advance her renown,
+and ensure the line of Drachenwald.
 
 <br />
 
