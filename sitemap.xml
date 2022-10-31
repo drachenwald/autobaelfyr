@@ -7,10 +7,10 @@ layout: none
           <loc>{{ site.url }}</loc>
           <changefreq>monthly</changefreq>
       </url>
-  {% assign bpages = site.pages | where_exp: "item", "item.path contains 'baelfyr'" -%}
-  {% assign issues = bpages | where: "name", "index.md" | sort: 'issue' -%}
+  {%- assign bpages = site.pages | where_exp: "item", "item.path contains 'baelfyr'" -%}
+  {%- assign issues = bpages | where: "name", "index.md" | sort: 'issue' -%}
   {% for issue in issues reversed %}
-    {% assign chapters = site.issues | where_exp: "item", "item.path contains issue.issue" -%}
+    {%- assign chapters = site.issues | where_exp: "item", "item.path contains issue.issue" -%}
     {% for chapter in chapters %}
       {% unless chapter.path contains '000-preamble' %}
         <url>
