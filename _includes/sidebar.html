@@ -1,0 +1,13 @@
+{% assign bpages = site.issues | where_exp: "item", "item.path contains '000-preamble'" %}
+{% assign issues = bpages | sort: 'issue' %}
+
+<div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+  {% for eachissue in issues reversed %}
+    <a class="btn btn--primary nav-link {% if eachissue.issue == include.thisissue %}active shadow{% endif %} {% if eachissue.issue == page.issue %}active shadow{% endif %}" type="button"
+      {% if eachissue.issue == page.issue %}aria-selected="true"{% else %}aria-selected="false"{% endif %}
+      href="/baelfyr/{{ eachissue.issue }}/"
+      role="tab">
+      {{ eachissue.month }}
+    </a>
+  {% endfor %}
+</div>

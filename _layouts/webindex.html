@@ -1,0 +1,60 @@
+---
+layout: web
+---
+
+{% assign bpages = site.issues | where_exp: "item", "item.path contains '000-preamble'" %}
+{% assign issues = bpages | sort: 'issue' %}
+{% assign latest = issues | last %}
+{% assign thisissue = issues | where: "issue", page.issue | first %}
+
+{% assign thispreamble = thisissue.issue | append: '/000-preamble' %}
+{% assign preamble = site.issues | where_exp: "item", "item.path contains thispreamble" | first %}
+
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-lg-9 col-xl-8">
+
+      {{ content }}
+
+      <h4 class="text-center">
+        AS {{ thisissue.anno }} Volume {{ thisissue.volume }}, Issue {{ thisissue.issue | split:"-" | last }}<br />
+        {{ thisissue.month }}
+      </h4>
+
+      {% if thisissue.issue == latest.issue %}
+        <div class="text-center">
+          <a class="btn btn-primary m-3 shadow" href="/latest/"><i class="fa-solid fa-print"></i> Printable version</a>
+        </div>
+      {% endif %}
+
+      <br />
+
+      {% assign chapters = site.issues | where_exp: "item", "item.path contains thisissue.issue" %}
+
+      <div class="list-group shadow">
+        {% for chapter in chapters %}
+          {% unless chapter.path contains '000-preamble' %}
+            <a href="{{chapter.url}}" class="list-group-item list-group-item-action px-3 py-4">
+              <h4>{{ chapter.title }}</h4>
+              {{ chapter.excerpt | strip_html }}...
+            </a>
+          {% endunless %}
+        {% endfor %}
+      </div>
+
+      <div class="text-center my-4">
+        <a class="btn btn-primary m-2 shadow" href="https://insulaedraconis.org/events/"><i class="fa-solid fa-calendar-days"></i> Events calendar</a>
+        <a class="btn btn-primary m-2 shadow" href="https://insulaedraconis.org/governance/find-an-officer/"><i class="fa-solid fa-users"></i> Officers</a>
+        <a class="btn btn-primary m-2 shadow" href="https://insulaedraconis.org/library/useful-resources/findingalocalgroup/"><i class="fa-solid fa-map-signs"></i> Groups</a>
+      </div>
+
+    </div>
+
+    <div class="d-none d-lg-block col-lg-3 col-xl-4">
+      <figure class="figure ms-3">
+        <img src="/baelfyr/{{ thisissue.issue }}/cover.jpg" class="figure-img img-fluid shadow mb-2" alt="Baelfyr cover">
+        <figcaption class="figure-caption text-center text-break">{{ preamble.credits.cover }}</figcaption>
+      </figure>
+    </div>
+  </div>
+</div>

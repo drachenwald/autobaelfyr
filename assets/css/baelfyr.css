@@ -43,6 +43,25 @@
     }
   }
 
+  #backcover {
+    page: backcoverlayout;
+  }
+
+  @page backcoverlayout {
+    background-image: url('/assets/img/id-map.jpg');
+    background-size: cover;
+    bleed: 10mm;
+    @bottom-left {
+      content: none;
+    }
+    @bottom-right {
+      content: none;
+    }
+    @bottom-center {
+      content: none;
+    }
+  }
+
   /*
    * Fonts
    */
@@ -82,10 +101,10 @@
     color: white;
     text-shadow: 2px 2px 2px #000, -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     position: absolute;
-    bottom: 0;
+    top: 159px;
     left: 50%;
     right: 50%;
-    margin-left: -50%;
+    margin-left: -47%;
     margin-right: -50%;
   }
 
@@ -180,5 +199,13 @@
     color: #000000;
     background-color: #000000;
     border: none;
+  }
+
+  .backing-box{
+    width: 111%;
+    height: 240px;
+    background: rgba(0, 0, 0, 0.6);
+    margin-left: -4%;
+    border-radius: 10px;
   }
 }

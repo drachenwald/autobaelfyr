@@ -1,49 +1,23 @@
 {% include header.html %}
 
+{% assign pathsegments = page.path | split:"/" %}
+{% assign month = pathsegments[1] %}
+
 <div id="main" class="wrapper style3">
 	<div class="container">
 		<div class="row">
-			{% if page.sidebar %}
-				<div class="col-12 col-lg-8">
-					<section id="content">
-						{{ content }}
+			<div class="col-12 order-last col-sm-4 col-lg-3 col-xl-2 order-sm-first">
+				<div class="p-2">
+					<section id="sidebar">
+						{% include sidebar.html thisissue = month %}
 					</section>
 				</div>
-				<div class="col-12 col-lg-4">
-					<div class="bg-white shadow rounded p-3">
-						<section id="sidebar">
-							{% include {{ page.sidebar }}.html %}
-						</section>
-					</div>
-				</div>
+			</div>
 
-			{% else %}
-
-				<div class="col-12">
-					<section id="content">
-						{{ content }}
-					</section>
-				</div>
-
-			{% endif %}
-
-			<div class="d-flex justify-content-between">
-				<div class="p-2">
-					{% if page.previous %}
-						<a href="{{ page.previous.url }}" class="btn btn-primary">
-							<i class="fas fa-arrow-left"></i>
-							{{ page.previous.title }}</a>
-					{% endif %}
-				</div>
-				<div class="p-2">
-					{% if page.next %}
-						<a href="{{ page.next.url }}" class="btn btn-primary">
-							{{ page.next.title }}
-							<i class="fas fa-arrow-right"></i>
-						</a>
-					{% endif %}
-				</div>
-
+			<div class="col-12 order-first col-sm-8 col-lg-9 col-xl-10 order-sm-last">
+				<section id="content">
+					{{ content }}
+				</section>
 			</div>
 
 		</div>

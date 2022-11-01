@@ -1,59 +1,14 @@
 ---
-title: The Baelfyr
-subtitle: Newsletter of the Principality of Insulae Draconis
-layout: web
+layout: webindex
+issue: 2022-11
 ---
 
-{% assign bpages = site.pages | where_exp: "item", "item.path contains 'baelfyr'" %}
-{% assign issues = bpages | where: "name", "index.md" | sort: 'issue' %}
-
-<div class="d-flex align-items-start">
-  <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-    {% for issue in issues reversed %}
-      <button class="nav-link {% if forloop.first %}active{% endif %}" id="v-pills-{{forloop.index}}-tab" data-bs-toggle="pill" type="button"
-        data-bs-target="#v-pills-{{forloop.index}}" aria-controls="v-pills-{{forloop.index}}"
-        {% if forloop.first %}aria-selected="true"{% else %}aria-selected="false"{% endif %}
-        role="tab">
-        {{ issue.month }}
-      </button>
-    {% endfor %}
-  </div>
-
-  <div class="tab-content" id="v-pills-tabContent">
-    {% for issue in issues reversed %}
-      <div class="tab-pane fade {% if forloop.first %}show active{% endif %}" id="v-pills-{{forloop.index}}" role="tabpanel"
-      aria-labelledby="v-pills-{{forloop.index}}-tab" tabindex="0">
-
-        <h4>
-          AS {{ issue.anno }} Volume {{ issue.volume }}, Issue {{ issue.issue | split:"-" | last }}.<br />
-          {{ issue.month }}.
-        </h4>
-
-        <br />
-
-        {% assign chapters = site.issues | where_exp: "item", "item.path contains issue.issue" %}
-
-        <div class="list-group">
-          {% for chapter in chapters %}
-            <a href="{{chapter.url}}" class="list-group-item list-group-item-action">{{ chapter.title }}</a>
-          {% endfor %}
-        </div>
-
-        <br />
-
-        <p>
-          <a class="btn btn-primary" href="https://insulaedraconis.org/events/"><i class="fas fa-calendar"></i> Events calendar</a>
-          <a class="btn btn-primary" href="https://insulaedraconis.org/governance/find-an-officer/"><i class="fas fa-users"></i> Officers</a>
-          <a class="btn btn-primary" href="https://insulaedraconis.org/library/useful-resources/findingalocalgroup/"><i class="fas fa-map-signs"></i> Groups</a>
-        </p>
-
-        {% if forloop.first %}
-          <p>
-            <a class="btn btn-primary" href="{{issue.url}}"><i class="fas fa-print"></i> Printable version</a>
-          </p>
-        {% endif %}
-
-      </div>
-    {% endfor %}
-  </div>
+<div class="alert alert-primary shadow">
+The Baelfyr is the best way to find out what’s going on in the Principality.
+It arrives in your email inbox once a month.<br />
+<br />
+To subscribe, email
+<a href="mailto:baelfyr+subscribe@insulaedraconis.org">baelfyr+subscribe@insulaedraconis.org</a>.
 </div>
+
+<br />
