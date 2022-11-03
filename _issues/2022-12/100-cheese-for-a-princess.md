@@ -170,29 +170,31 @@ After five hours or so, it comes out of the press for the last time.  At this po
 
 I splashed it with some balsamic vinegar, because I felt like it, and placed it on a rack to dry.  There's a screen mesh cover which goes over it, too.
 
-<div style="text-align: center;">
-  <figure class="figure">
-    <img src="/baelfyr/2022-12/cheese/cfp12.jpg" width="350"
-      class="figure-img rounded"
-      alt="Now the cheese kind of looks like a scone?">
-    <figcaption class="figure-caption text-center">Day 4, noonish</figcaption>
-  </figure>
+<div class="gallery w-100">
+  <div class="col2">
+    <figure class="figure">
+      <img src="/baelfyr/2022-12/cheese/cfp12.jpg"
+        class="figure-img rounded"
+        alt="Now the cheese kind of looks like a scone?">
+      <figcaption class="figure-caption text-center">Day 4, noonish</figcaption>
+    </figure>
+  </div>
+  <div class="col2">
+    <figure class="figure">
+      <img src="/baelfyr/2022-12/cheese/cfp13.jpg"
+        class="figure-img rounded"
+        alt="The final result - a perfect block of cheese, sliced in half">
+      <figcaption class="figure-caption text-center">Day 12</figcaption>
+    </figure>
+  </div>
 </div>
+
 
 ### Day 12
 
 The cheese had been aging for not quite two weeks.  I cut it in half, to check on the progress and was satisified with the result.   At this point, it was wrapped in parchment paper and moved to the fridge.
 
-<div style="text-align: center;">
-  <figure class="figure">
-    <img src="/baelfyr/2022-12/cheese/cfp13.jpg" width="350"
-      class="figure-img rounded"
-      alt="The final result - a perfect block of cheese, sliced in half">
-    <figcaption class="figure-caption text-center">Day 12</figcaption>
-  </figure>
-</div>
-
-<h3 class="pagebreak">Day 27 or so</h3>
+<h3>Day 27 or so</h3>
 
 The final result was given to the Princess to use as she wishes.
 
