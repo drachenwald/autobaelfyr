@@ -52,22 +52,21 @@ The milk had set up nicely, so I cut the curds.  I use a clean knife and cut it 
 
 The cut curd had settled nicely by early evening, with a reasonable amount of whey already expressed from the curd.
 
-I put a colander into a pot and lined it with cheesecloth. Then I carefully slopped the curds and whey into the colander.  You can see that the curds are still fairly wet and shiny and this point.
-
-### Day 2, late evening
-
-A couple of hours later, the curds are looking quite a bit drier and firmer.
-
 <div style="text-align: center;">
   <figure class="figure">
     <img src="/baelfyr/2022-12/cheese/cfp03.jpg"
       class="figure-img rounded"
       alt="Now there's a cloth in the bowl">
-    <figcaption class="figure-caption text-center">Day 2, late evening</figcaption>
+    <figcaption class="figure-caption text-center">Day 2, early evening</figcaption>
   </figure>
 </div>
 
-Which means it's time to hang them!
+
+I put a colander into a pot and lined it with cheesecloth. Then I carefully slopped the curds and whey into the colander.  You can see that the curds are still fairly wet and shiny and this point.
+
+### Day 2, late evening
+
+A couple of hours later, the curds are looking quite a bit drier and firmer.
 
 <div style="text-align: center;">
   <figure class="figure">
@@ -78,15 +77,26 @@ Which means it's time to hang them!
   </figure>
 </div>
 
-### Day 3, morning
-
-After hanging overnight, the curds have drained and compressed into a single blob.
+Which means it's time to hang them!
 
 <div style="text-align: center;">
   <figure class="figure">
     <img src="/baelfyr/2022-12/cheese/cfp05.jpg"
       class="figure-img rounded"
       alt="A blob, hanging in the cheese cloth">
+    <figcaption class="figure-caption text-center">Day 2, late evening</figcaption>
+  </figure>
+</div>
+
+### Day 3, morning
+
+After hanging overnight, the curds have drained and compressed into a single blob.
+
+<div style="text-align: center;">
+  <figure class="figure">
+    <img src="/baelfyr/2022-12/cheese/cfp06.jpg"
+      class="figure-img rounded"
+      alt="Blob off cheese!">
     <figcaption class="figure-caption text-center">Day 3, morning</figcaption>
   </figure>
 </div>
@@ -95,61 +105,55 @@ To the blob, I added perhaps half a teaspoon of salt.  Then I broke up the curds
 
 <div style="text-align: center;">
   <figure class="figure">
-    <img src="/baelfyr/2022-12/cheese/cfp06.jpg"
+    <img src="/baelfyr/2022-12/cheese/cfp07.jpg"
       class="figure-img rounded"
-      alt="Hey that's starting to look like cheese">
+      alt="Broken up cheese in a silver bowl">
     <figcaption class="figure-caption text-center">Day 3, morning</figcaption>
   </figure>
 </div>
 
 Then it's into the mold, and into the press with about seven pounds of weight.  The weight itself is only about two pounds, but the lever arm on the press increases the pressure by roughly a factor of three.
 
-### Day 3, noonish
-
-<div style="text-align: center;">
-  <figure class="figure">
-    <img src="/baelfyr/2022-12/cheese/cfp07.jpg"
-      class="figure-img rounded"
-      alt="Pale white cheese in a silver bowl">
-    <figcaption class="figure-caption text-center">Day 3, noonish</figcaption>
-  </figure>
-</div>
-
-
-The weight is increased to about fifteen pounds.
-
-### Day 4, morning
-
 <div style="text-align: center;">
   <figure class="figure">
     <img src="/baelfyr/2022-12/cheese/cfp08.jpg"
       class="figure-img rounded"
-      alt="Wrinkled cheese">
-    <figcaption class="figure-caption text-center">Day 4, morning</figcaption>
+      alt="Cheese being put in the mold">
+    <figcaption class="figure-caption text-center">Day 3, morning</figcaption>
   </figure>
 </div>
 
-The cheese is removed from the press, and the cheesecloth is removed from the cheese.  It goes back in the press, upside down, just to smooth it out a little.  The top is a little wrinkled from where the cloth was pressed into it.
+
+### Day 3, noonish
 
 <div style="text-align: center;">
   <figure class="figure">
     <img src="/baelfyr/2022-12/cheese/cfp09.jpg"
       class="figure-img rounded"
-      alt="I guess it's setting now?">
-    <figcaption class="figure-caption text-center">Day 4, noonish</figcaption>
+      alt="Cheese in the mold">
+    <figcaption class="figure-caption text-center">Day 3, noonish</figcaption>
   </figure>
 </div>
 
-### Day 4, noonish
+The weight is increased to about fifteen pounds.
+
 
 <div style="text-align: center;">
   <figure class="figure">
     <img src="/baelfyr/2022-12/cheese/cfp10.jpg"
       class="figure-img rounded"
       alt="A wooden press with a weight">
-    <figcaption class="figure-caption text-center">Day 4, noonish</figcaption>
+    <figcaption class="figure-caption text-center">Day 3, noonish</figcaption>
   </figure>
 </div>
+
+### Day 4, morning
+
+The cheese is removed from the press, and the cheesecloth is removed from the cheese.  It goes back in the press, upside down, just to smooth it out a little.  The top is a little wrinkled from where the cloth was pressed into it.
+
+
+
+### Day 4, noonish
 
 After five hours or so, it comes out of the press for the last time.  At this point, the two liters of milk (which weighed roughly 2 kg) have turned into a cheese which weighs 333 gm.
 
@@ -164,6 +168,8 @@ After five hours or so, it comes out of the press for the last time.  At this po
 
 I splashed it with some balsamic vinegar, because I felt like it, and placed it on a rack to dry.  There's a screen mesh cover which goes over it, too.
 
+### Day 12
+
 <div style="text-align: center;">
   <figure class="figure">
     <img src="/baelfyr/2022-12/cheese/cfp12.jpg"
@@ -172,8 +178,6 @@ I splashed it with some balsamic vinegar, because I felt like it, and placed it 
     <figcaption class="figure-caption text-center">Day 12</figcaption>
   </figure>
 </div>
-
-### Day 12
 
 The cheese had been aging for not quite two weeks.  I cut it in half, to check on the progress and was satisified with the result.   At this point, it was wrapped in parchment paper and moved to the fridge.  
 
