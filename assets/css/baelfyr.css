@@ -126,6 +126,10 @@
     break-before: page;
   }
 
+  .pagebreak {
+    break-before: page;
+  }
+
   a {
     text-decoration: none;
   }
