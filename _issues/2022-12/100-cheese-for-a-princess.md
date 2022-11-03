@@ -1,6 +1,7 @@
 ---
 title: "Concerning Cheese Suitable for A Princess"
 author: "Alexandre Lerot d'Avigné, sometime cheese-maker"
+feed: 2022-12-03
 ---
 
 Lactose intolerance afflicts a great many people, some estimates are as high as one in ten.  Her Highness Princess Euphrosyne of Insulae Draconis is one of them, which gave me the idea of making some lactose-free cheese.  I make cheese pretty regularly for our household, but have not tried to make a lactose-free version before.  A little research suggests that the process is essentially unchanged, one simply begins with lactose-free milk.  Since I have a brand-new cheese press, and could acquire lactose-free milk, the game was afoot.

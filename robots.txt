@@ -1,9 +1,9 @@
 ---
 layout: none
 ---
-{% if jekyll.environment == "production" -%}
+{%- if jekyll.environment == "production" -%}
 Sitemap: {{ site.url }}/sitemap.xml
-{% else -%}
+{%- else -%}
 User-agent: *
 Disallow: /
-{% endif -%}
+{%- endif -%}
