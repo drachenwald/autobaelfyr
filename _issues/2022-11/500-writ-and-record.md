@@ -1,6 +1,7 @@
 ---
 title: The Writ and Record
 author: Nicholas of Eastleach
+feed: 2022-11-08
 ---
 
 ## Marriage Settlement of William Huckvale and Mary Rawbone
