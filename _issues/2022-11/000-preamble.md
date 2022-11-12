@@ -1,6 +1,6 @@
 ---
 issue: 2022-11
-anno: LVI
+anno: LVII
 volume: 29
 month: "November 2022"
 layout: print

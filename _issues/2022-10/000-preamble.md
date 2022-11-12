@@ -1,6 +1,6 @@
 ---
 issue: 2022-10
-anno: LVI
+anno: LVII
 volume: 29
 month: "October 2022"
 publish: false
