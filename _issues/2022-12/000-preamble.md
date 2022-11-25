@@ -5,6 +5,6 @@ volume: 29
 month: "December 2022"
 layout: print
 credits:
-  cover: ""
+  cover: "The Baroness and Baron of Eplaheimr display the Eplaheimr Armourial. Photo: Chronicler."
 ---
 thing
