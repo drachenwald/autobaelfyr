@@ -6,7 +6,7 @@ feed: 2022-12-04
 Safarjaliyya (from _safarjal_, Arabic for ‘quince’) is found in multiple period sources, including the two I
 consulted: _A Baghdad Cookery Book_ and _An Anonymous Andalusian Cookbook of the Thirteenth
 Century._ The two recipes agree on the fundamentals (meat, vinegar, coriander seed, quinces, and
-saffron) but differ in execution. _Andalusian_ has the meet cooked in oil, additional flavour from
+saffron) but differ in execution. _Andalusian_ has the meat cooked in oil, additional flavour from
 pepper, caraway and onion, and a thickener of eggs; _Baghdad_ cooks the meat in “tail fat” and adds
 salt, cinnamon, mastic, minced meat ‘with the spices for meatballs’, rose water, and almond milk as
 a thickener.
