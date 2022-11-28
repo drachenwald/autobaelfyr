@@ -1,7 +1,7 @@
 ---
 title: "An Easy Safarjaliyya"
 author: "Amphelise de Wodeham"
-feed: 2022-12-04
+feed: 2022-12-05
 ---
 Safarjaliyya (from _safarjal_, Arabic for ‘quince’) is found in multiple period sources, including the two I
 consulted: _A Baghdad Cookery Book_ and _An Anonymous Andalusian Cookbook of the Thirteenth
