@@ -16,6 +16,7 @@
     @bottom-center {
       content: string(title);
       text-transform: uppercase;
+      width: 100%;
     }
   }
 
@@ -43,8 +44,15 @@
     }
   }
 
+  @page:blank {
+    @bottom-center {
+      content: "This page intentionally left blank";;
+    }
+  }
+
   #backcover {
     page: backcoverlayout;
+    break-before: left;
   }
 
   @page backcoverlayout {
@@ -123,6 +131,10 @@
   }
 
   .chapter {
+    break-before: page;
+  }
+
+  .pagebreak {
     break-before: page;
   }
 
