@@ -58,10 +58,10 @@
           {% endfor %}
 
           {% assign firstevent = site.data.remote.calendar | where: 'region', 'Insulae Draconis' | first %}
-          <li><span href="#e-{{ firstevent.slug }}">Upcoming Events</span></li>
+          <li><span href="#e-start">Upcoming Events</span></li>
 
           {% assign firstgroup = site.data.remote.groups | where: 'parent', 'Insulae Draconis' | first %}
-          <li><span href="#g-{{ firstgroup.group | slugify }}">Branches</span></li>
+          <li><span href="#g-start">Branches</span></li>
 
           <li><span href="#regnum">Principality Regnum</span></li>
 
