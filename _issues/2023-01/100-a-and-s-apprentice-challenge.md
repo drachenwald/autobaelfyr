@@ -1,7 +1,7 @@
 ---
 title: "Arts and Sciences Apprentice* Challenge"
 author: "Marcella di Cavallino"
-feed: 2023-01-03
+feed: 2023-01-04
 ---
 
 _* For everyone, not just apprentices_
