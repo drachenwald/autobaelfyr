@@ -1,6 +1,6 @@
 ---
 title: Puzzle page
-author: "Amy Wagstaff-Weston"
+author: "Amy of Osgoldcross"
 feed: 2023-01-06
 ---
 
