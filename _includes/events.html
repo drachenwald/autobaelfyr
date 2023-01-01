@@ -1,6 +1,34 @@
 {% capture newline %}
 {% endcapture %}
 
+<section class="chapter">
+  <h1 id="e-start">Events</h1>
+
+  <p>
+    These are the upcoming events in Insulae Draconis.
+  </p>
+
+  <p>
+    To submit an event for inclusion, use the form on the Drachenwald website,
+    <a href="https://drachenwald.sca.org/events/calendar-add/">https://drachenwald.sca.org/events/calendar-add/</a>.
+    You don't need to provide all information right away; a minimal entry is enough at first.
+  </p>
+
+  <p>
+    The day after you submit an event, you'll receive an email with a link to edit your entry.
+    Changes will be reflected on the Principality website within a few minutes, and in editions
+    of the Baelfyr that are published before the event takes place. (If you're unable to find that
+    link, contact <a href="mailto:webminister@drachenwald.sca.org">webminister@drachenwald.sca.org</a>
+    for help.)
+  </p>
+
+  <p>
+    To keep entries consistent between the calendars, The Baelfyr no longer accepts event submissions
+    by email.
+  </p>
+
+</section>
+
 {% for event in site.data.remote.calendar %}
   {% if event.region == "Insulae Draconis" %}
 

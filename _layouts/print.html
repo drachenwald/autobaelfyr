@@ -35,7 +35,8 @@
         <div class="masthead">
           The Baelfyr
         </div>
-  
+      </div>
+      <div class="backing-box-legend">
         <div class="cover-legend">
           <span>
             Official newsletter of the Principality of Insulae Draconis<br />
@@ -57,10 +58,10 @@
           {% endfor %}
 
           {% assign firstevent = site.data.remote.calendar | where: 'region', 'Insulae Draconis' | first %}
-          <li><span href="#e-{{ firstevent.slug }}">Upcoming Events</span></li>
+          <li><span href="#e-start">Upcoming Events</span></li>
 
           {% assign firstgroup = site.data.remote.groups | where: 'parent', 'Insulae Draconis' | first %}
-          <li><span href="#g-{{ firstgroup.group | slugify }}">Branches</span></li>
+          <li><span href="#g-start">Branches</span></li>
 
           <li><span href="#regnum">Principality Regnum</span></li>
 
@@ -94,8 +95,8 @@
       </h2>
 
       <p>
-        Subscriptions are available by emailing
-        <a href="mailto:baelfyr+subscribe@insulaedraconis.org">baelfyr+subscribe@insulaedraconis.org</a>,
+        Subscriptions may be requested by emailing the Chronicler,
+        <a href="mailto:chronicler@insulaedraconis.org">chronicler@insulaedraconis.org</a>,
         and will be continued without the need for renewal unless cancelled.
         Print copies can be provided for a small charge;
         price upon application to the Chronicler.
