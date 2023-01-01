@@ -125,11 +125,14 @@
   }
 
   .backing-box-legend{
+    font-family: "Philosopher";
+    font-size: 24px;
+    text-align: center;
     position: absolute;
     top: 975px;
     width: 111%;
     height: 70px;
-    background: rgba(0, 24, 131, 0.8);
+    background: rgba(0, 0, 0, 0.8);
     margin-left: -4%;
     border-radius: 10px;
   }
