@@ -1,96 +1,40 @@
 top:
 
-- title: Events
+- title: Quick links
   submenu:
-    - page: Calendar
-      url: /events/
-    - page: Raglan Fair
-      url: /events/raglan/
-    - page: Coronet Tournament
-      url: /coronet/coronet-tourney/
+    - page: ID Book of Ceremonies
+      url: https://insulaedraconis.gitlab.io/ceremonies/
+    - page: Officer change form
+      url: https://docs.google.com/forms/d/e/1FAIpQLSeqIMHbpB3a1d2XGyaAP1rDe3ZUV4X7Yx5PBvZ_3AH3Qr9odA/viewform
+    - page: Award recommendations
+      url: https://op.drachenwald.sca.org/recommend
+      
+- title: Calendar
+  url: https://insulaedraconis.org/events/
+  
+- title: Coronet & Court
+  url: https://insulaedraconis.org/coronet/
+  submenu:
+    - page: Current reign
+      url: https://insulaedraconis.org/coronet/
+    - page: Coronet tournament
+      url: https://insulaedraconis.org/coronet/coronet-tourney/
+    - page: Recommend someone for an award
+      url: https://insulaedraconis.org/coronet/recommend/
+
+- title: Newcomers
+  url: https://insulaedraconis.org/newcomers/
 
 - title: Activities
-  url: /activities/
-  submenu:
-    - page: Activities
-      url: /activities/
-    - page: Archery
-      url: /activities/archery/
-    - page: Armoured Combat
-      url: /activities/armoured-combat/
-    - page: Arts and Sciences
-      url: /activities/a-and-s/
-    - page: Bardic Performance and Dance
-      url: /activities/a-and-s/bardic-and-dancing/
-    - page: Competitions and Awards
-      url: /activities/a-and-s/competitions/
-    - page: Cooking and Feasting
-      url: /activities/a-and-s/cooking-and-feasting/
-    - page: Heraldry
-      url: /activities/heraldry/
-    - page: Rapier fighting
-      url: /activities/rapier/
-    - page: Scribal Arts
-      url: /activities/a-and-s/scribal/
-    - page: The Protectors Tournaments
-      url: /activities/protectors/
-
-- title: Meet their Highnesses
-  url: /coronet/
-  submenu:
-    - page: Prince and Princess
-      url: /coronet/
-    - page: Royal Progress
-      url: /coronet/#progress
-    - page: Coronet Tourney
-      url: /coronet/coronet-tourney/
-    - page: Recommend someone for an Award
-      url: /coronet/recommend/
-    - page: Previous Reigns
-      url: /coronet/past/
+  url: https://insulaedraconis.org/activities/
 
 - title: Library
-  url: /library/
-  submenu:
-    - page: Newcomers
-      url: /newcomers/
-      subsubmenu:
-        - page: Contact the Castellan
-          url: /newcomers/chatelaine/
-        - page: Jargonbusters
-          url: /newcomers/jargonbuster/
-        - page: "Read members' stories"
-          url: /newcomers/why-i-joined/
-        - page: What to expect at your first event
-          url: /newcomers/what-to-expect/
-        - page: Finding a local group
-          url: /library/useful-resources/findingalocalgroup/
-    - page: Resources of local groups
-      url: /library/group-resources/
-      subsubmenu:
-        - page: Bidding for Events
-          url: /library/group-resources/bidding-for-events/
-        - page: How to start a local group
-          url: /library/group-resources/how-to-setup/
-        - page: Resources for running an Event
-          url: /library/howtos/running-an-event/
-        - page: Find a Principality Officer
-          url: /governance/find-an-officer/
-        - page: "You're a Shire officer, what now?"
-          url: /library/group-resources/new-shire-officers/
-        - page: Principality Law
-          url: /library/publications/principality-law/
-    - page: Library
-      url: /library/
-    - page: How tos and Guides
-      url: /library/howtos/
-    - page: The Baelfyr (newsletter)
-      url: /baelfyr/
+  url: https://insulaedraconis.org/library/
 
 - title: Contact
-  url: /governance/find-an-officer/
+  url: https://insulaedraconis.org/governance/find-an-officer/
   submenu:
     - page: Contact an officer
-      url: /governance/find-an-officer/
+      url: https://insulaedraconis.org/governance/find-an-officer/
     - page: Find a local group
-      url: /library/useful-resources/findingalocalgroup
+      url: https://insulaedraconis.org/library/useful-resources/findingalocalgroup

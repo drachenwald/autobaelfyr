@@ -25,12 +25,12 @@
     <script defer src="/assets/js/fontawesome/solid.min.js"></script>
     <script defer src="/assets/js/fontawesome/fontawesome.min.js"></script>
     
-    <link rel="apple-touch-icon" sizes="180x180" href="https://insulaedraconis.org/images/icons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="https://insulaedraconis.org/images/icons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="https://insulaedraconis.org/images/icons/favicon-16x16.png">
-    <link rel="manifest" href="https://insulaedraconis.org/images/icons/site.webmanifest">
-    <link rel="mask-icon" href="https://insulaedraconis.org/images/icons/safari-pinned-tab.svg" color="#002ad7">
-    <link rel="shortcut icon" href="https://insulaedraconis.org/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/icons/favicon-16x16.png">
+    <link rel="manifest" href="/images/icons/site.webmanifest">
+    <link rel="mask-icon" href="/images/icons/safari-pinned-tab.svg" color="#002ad7">
+    <link rel="shortcut icon" href="/favicon.ico">
     <meta name="msapplication-TileColor" content="#2b5797">
     <meta name="msapplication-config" content="https://insulaedraconis.org/images/icons/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
@@ -56,7 +56,7 @@
 
         <div class="container">
 
-          <a class="navbar-brand" style="color: #ffff00;" href="https://insulaedraconis.org/">
+          <a class="navbar-brand" style="color: #ffff00;" href="/">
             <img src="/assets/img/heraldry.svg" width="50" alt="" /> Insulae Draconis
           </a>
 
@@ -72,23 +72,23 @@
                     
                   {% if item.submenu[0] %}
                     <li class="nav-item dropdown">
-                      <a class="nav-link dropdown-toggle {% if item.url == page.url %}active{% endif %}"  style="color: #ffff00;" id="navbar-dropdown-{{item.title | slugify}}" role="button" data-bs-toggle="dropdown" aria-expanded="false" href="https://insulaedraconis.org{{ item.url }}">{{ item.title }}</a>
+                      <a class="nav-link dropdown-toggle {% if item.url == page.url %}active{% endif %}"  style="color: #ffff00;" id="navbar-dropdown-{{item.title | slugify}}" role="button" data-bs-toggle="dropdown" aria-expanded="false" href="{{ item.url }}">{{ item.title }}</a>
                       <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbar-dropdown-{{item.title | slugify}}">
                         {% for subitem in item.submenu %}
                           {% if subitem.subsubmenu[0] %}
                           <li>
-                            <a class="fw-bold text-muted dropdown-item {% if subitem.url == page.url %}active{% endif %}" href="https://insulaedraconis.org{{ subitem.url }}">{{ subitem.page }}</a>
+                            <a class="fw-bold text-muted dropdown-item {% if subitem.url == page.url %}active{% endif %}" href="{{ subitem.url }}">{{ subitem.page }}</a>
                           </li>
                             {% for subsubitem in subitem.subsubmenu %}
                               <li>
-                                <a  class="dropdown-item {% if subsubitem.url == page.url %}active{% endif %}"  href="https://insulaedraconis.org{{ subsubitem.url }}">{{ subsubitem.page }}</a>
+                                <a  class="dropdown-item {% if subsubitem.url == page.url %}active{% endif %}"  href="{{ subsubitem.url }}">{{ subsubitem.page }}</a>
                               </li>
                             {% endfor %}
                             <li><hr class="dropdown-divider" />
 
                           {% else %}
                             <li>
-                              <a class="dropdown-item {% if subitem.url == page.url %}active{% endif %}" href="https://insulaedraconis.org{{ subitem.url }}">{{ subitem.page }}</a>
+                              <a class="dropdown-item {% if subitem.url == page.url %}active{% endif %}" href="{{ subitem.url }}">{{ subitem.page }}</a>
                             </li>
                           {% endif %}
                         {% endfor %}
@@ -96,7 +96,7 @@
                     </li>
                   {% else %}
                     <li class="nav-item">
-                      <a class="nav-link {% if item.url == page.url %}active{% endif %}" href="https://insulaedraconis.org{{ item.url }}">{{ item.title }}</a>
+                      <a class="nav-link {% if item.url == page.url %}active{% endif %}" style="color: #ffff00;" href="{{ item.url }}">{{ item.title }}</a>
                     </li>
                   {% endif %}
 
