@@ -30,7 +30,7 @@
 </section>
 
 {% for event in site.data.remote.calendar %}
-  {% if event.region == "Insulae Draconis" %}
+  {% if event.region == "Insulae Draconis" and event.status != 'cancelled' %}
 
     <section class="chapter">
       <h1 id="e-{{ event.slug }}">{{ event['event-name'] }}</h1>
