@@ -1,7 +1,7 @@
 ---
 title: Þe Wryte an Reccorde
 author: Nycolaus de Astleche
-feed: 2023-02-07
+feed: 2023-02-08
 ---
 
 ## Agreements between the Caryque and Huckvale Families - 1584

@@ -1,7 +1,7 @@
 ---
 title: Sestina di Jovi
 author: "Etienne Fevre"
-feed: 2023-02-05
+feed: 2023-02-06
 ---
 
 In late October I was dispatched to the Court of Nordmark on a diplomatic mission from the Coronet
