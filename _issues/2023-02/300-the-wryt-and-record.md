@@ -4,7 +4,7 @@ author: Nycolaus de Astleche
 feed: 2023-02-07
 ---
 
-### Agreements between the Caryque and Huckvale Families - 1584
+## Agreements between the Caryque and Huckvale Families - 1584
 
 Mundane matters prevented me from getting articles out for the last couple of issues. However, in the mean time one exciting thing did happen. Whilst I didn’t reach the storied heights of my friend, fellow-Flintheathian and skilled writer Lady Rebecca, I can now describe the Writ and Record as a Master William Blackfox Award Nominee, which is still pretty cool.
 
@@ -22,7 +22,27 @@ Unfortunately, the bond doesn’t specify exactly what was leased, presumably ju
 
 Given that the agreements are dated within two days of each other, it seems unlikely that they were arrived at independently. Perhaps there was some advantage to biasing the payments towards one. The relative value of land and between different types of agreement is certainly something I need to investigate further, as two examples give rise to plentiful speculation, but no real conclusion.
 
-My Latin is somewhat munitions grade, not unlike many of the writers of the time, so I may well have mangled my ending where I have expanded abbreviations. Please od let me know if you spot any errors. As usual the transcriptions are also available on WikiTree: [https://www.wikitree.com/wiki/Space:Final%20Concord%20-%20Richard%20Caryque%20to%20John%20&%20Cuthbert%20Huckvale%20-%201584%20-%20Oxfordshire%20P20/1D/6-7](https://www.wikitree.com/wiki/Space:Final%20Concord%20-%20Richard%20Caryque%20to%20John%20&%20Cuthbert%20Huckvale%20-%201584%20-%20Oxfordshire%20P20/1D/6-7) (which contains a transcription of both copies of the concord) and [https://www.wikitree.com/wiki/Space:Bond%20-%20Henry%20Caryque%20to%20John%20&%20Cuthbert%20Huckvale%20-%201584%20-%20Oxfordshire%20P20/1D/8](https://www.wikitree.com/wiki/Space:Bond%20-%20Henry%20Caryque%20to%20John%20&%20Cuthbert%20Huckvale%20-%201584%20-%20Oxfordshire%20P20/1D/8)
+My Latin is somewhat munitions grade, not unlike many of the writers of the time, so I may well have mangled my ending where I have expanded abbreviations. Please do let me know if you spot any errors. As usual the transcriptions are also available on WikiTree: [https://www.wikitree.com/wiki/Space:Final%20Concord%20-%20Richard%20Caryque%20to%20John%20&%20Cuthbert%20Huckvale%20-%201584%20-%20Oxfordshire%20P20/1D/6-7](https://www.wikitree.com/wiki/Space:Final%20Concord%20-%20Richard%20Caryque%20to%20John%20&%20Cuthbert%20Huckvale%20-%201584%20-%20Oxfordshire%20P20/1D/6-7) (which contains a transcription of both copies of the concord) and [https://www.wikitree.com/wiki/Space:Bond%20-%20Henry%20Caryque%20to%20John%20&%20Cuthbert%20Huckvale%20-%201584%20-%20Oxfordshire%20P20/1D/8](https://www.wikitree.com/wiki/Space:Bond%20-%20Henry%20Caryque%20to%20John%20&%20Cuthbert%20Huckvale%20-%201584%20-%20Oxfordshire%20P20/1D/8)
+
+
+<div class="gallery w-100">
+  <div class="col2">
+    <figure class="figure">
+      <img src="/baelfyr/2023-02/twar/twar1.jpeg"
+        class="figure-img rounded"
+        alt="P20/1D/6; Huckvale Papers">
+      <figcaption class="figure-caption text-center">Final concord</figcaption>
+    </figure>
+  </div>
+  <div class="col2">
+    <figure class="figure">
+      <img src="/baelfyr/2023-02/twar/twar2.jpeg"
+        class="figure-img rounded"
+        alt="P20/1D/8; Huckvale Papers">
+      <figcaption class="figure-caption text-center">Bond</figcaption>
+    </figure>
+  </div>
+</div>
 
 
 ### P20/1D/6 – The Final Concord
@@ -81,4 +101,4 @@ ordynary charg[e]s in travayling to p[er]forme the same: that then this obligaco
 Sealed & delyv[er]ed in the p[re]sence of p[er] me Henr Caryque Henry Browe Thomas Rogers Ric Price George Boughton
 
 
-Permission to reproduce the images for inclusion within the Baelfyr granted by the Oxfordshire County Council – Oxfordshire History Centre, Oxfordshire. Copyright is retained by the OHC.
+_Permission to reproduce the images for inclusion within the Baelfyr granted by the Oxfordshire County Council – Oxfordshire History Centre, Oxfordshire. Copyright is retained by the OHC._
