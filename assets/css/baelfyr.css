@@ -105,7 +105,7 @@
   .backing-box{
     width: 111%;
     height: 160px;
-    background: rgba(0, 24, 131, 0.8);
+    background: rgba(0, 0, 0, 0.6);
     margin-left: -4%;
     border-radius: 10px;
   }
@@ -121,7 +121,7 @@
     margin-left: -50%;
     margin-right: -50%;
     position: absolute;
-    top: 5px;
+    top: 8px;
   }
 
   .backing-box-legend{
@@ -132,7 +132,7 @@
     top: 975px;
     width: 111%;
     height: 70px;
-    background: rgba(0, 24, 131, 0.8);
+    background: rgba(0, 0, 0, 0.6);
     margin-left: -4%;
     border-radius: 10px;
   }
