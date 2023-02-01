@@ -24,26 +24,8 @@ Given that the agreements are dated within two days of each other, it seems unli
 
 My Latin is somewhat munitions grade, not unlike many of the writers of the time, so I may well have mangled my ending where I have expanded abbreviations. Please do let me know if you spot any errors. As usual the transcriptions are also available on WikiTree: [https://www.wikitree.com/wiki/Space:Final%20Concord%20-%20Richard%20Caryque%20to%20John%20&%20Cuthbert%20Huckvale%20-%201584%20-%20Oxfordshire%20P20/1D/6-7](https://www.wikitree.com/wiki/Space:Final%20Concord%20-%20Richard%20Caryque%20to%20John%20&%20Cuthbert%20Huckvale%20-%201584%20-%20Oxfordshire%20P20/1D/6-7) (which contains a transcription of both copies of the concord) and [https://www.wikitree.com/wiki/Space:Bond%20-%20Henry%20Caryque%20to%20John%20&%20Cuthbert%20Huckvale%20-%201584%20-%20Oxfordshire%20P20/1D/8](https://www.wikitree.com/wiki/Space:Bond%20-%20Henry%20Caryque%20to%20John%20&%20Cuthbert%20Huckvale%20-%201584%20-%20Oxfordshire%20P20/1D/8)
 
-
-<div class="gallery w-100">
-  <div class="col2">
-    <figure class="figure">
-      <img src="/baelfyr/2023-02/twar/twar1.jpeg"
-        class="figure-img rounded"
-        alt="P20/1D/6; Huckvale Papers">
-      <figcaption class="figure-caption text-center">Final concord</figcaption>
-    </figure>
-  </div>
-  <div class="col2">
-    <figure class="figure">
-      <img src="/baelfyr/2023-02/twar/twar2.jpeg"
-        class="figure-img rounded"
-        alt="P20/1D/8; Huckvale Papers">
-      <figcaption class="figure-caption text-center">Bond</figcaption>
-    </figure>
-  </div>
-</div>
-
+<br>
+<br>
 
 ### P20/1D/6 – The Final Concord
 
@@ -102,3 +84,19 @@ Sealed & delyv[er]ed in the p[re]sence of p[er] me Henr Caryque Henry Browe Thom
 
 
 _Permission to reproduce the images for inclusion within the Baelfyr granted by the Oxfordshire County Council – Oxfordshire History Centre, Oxfordshire. Copyright is retained by the OHC._
+
+<div style="text-align: center;">
+  <figure class="figure">
+    <img src="/baelfyr/2023-02/twar/twar1.jpeg"
+      class="figure-img rounded"
+      alt="P20/1D/6; Huckvale Papers">
+  </figure>
+</div>
+
+<div style="text-align: center;">
+  <figure class="figure">
+    <img src="/baelfyr/2023-02/twar/twar2.jpeg"
+      class="figure-img rounded"
+      alt="P20/1D/8; Huckvale Papers">
+  </figure>
+</div>
