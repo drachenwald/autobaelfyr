@@ -19,6 +19,8 @@
     <section class="chapter">
       <h1 id="g-{{ group.group | slugify }}">{{ group.group }}</h1>
 
+      <p><em>{{ group.region }}</em></p>
+
       {% assign groupslug = "Insulae Draconis-" | append: group.group %}
       {% assign officers = site.data.remote.regnum | where: "group", groupslug %}
 
