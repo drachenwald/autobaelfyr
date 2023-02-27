@@ -14,7 +14,7 @@ The quitclaim is in Latin, and appears to be relinquishing all rights to take ac
 
 Being so short, there is little else to draw from the document other than a period example of a turn of phrase that you may well hear in court, or read in a scroll, in some variation: from the beginning of the world until the day of the composition of these presents. It’s fairly grandiose language for such a little document, but perhaps you might expect that from a Master of an Ocxford College.
 
-[https://www.wikitree.com/wiki/Space:Quitclaim_-_Thomas_Knollys_to_Robert_Huckvale_-_1531_-_Oxfordshire_P20/2D/1](https://www.wikitree.com/wiki/Space:Quitclaim_-_Thomas_Knollys_to_Robert_Huckvale_-_1531_-_Oxfordshire_P20/2D/1)
+<a href="https://www.wikitree.com/wiki/Space:Quitclaim_-_Thomas_Knollys_to_Robert_Huckvale_-_1531_-_Oxfordshire_P20/2D/1">https://www.wikitree.com/wiki/Space:Quitclaim_-_Thomas_Knollys_to_Robert_Huckvale_-_1531_-_Oxfordshire_P20/2D/1</a>
 
 ## P/20/2D/1
 
