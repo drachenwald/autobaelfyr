@@ -3,7 +3,7 @@ title: Boasts from Coronet Tourney
 feed: 2023-03-04
 ---
 
-Coronet Tourney this past month and, as is tradition, the noble competitors were
+Coronet Tourney took place this past month and, as is tradition, the noble competitors were
 heralded into the tourney with creativity, skill and panache. Here are some of the boasts.
 
 ### Alexandre Lerot d'Avignon and Eularia Trewe
