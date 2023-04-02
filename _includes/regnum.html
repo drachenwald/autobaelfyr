@@ -58,7 +58,7 @@
         {% if forloop.first %}
           <h3>{% if officer.responsibility == " " %}{{ role.title }}{% else %}{{ officer.responsibility }}{% endif %}</h3>
         {% else %}
-          <h6>{{ officer.responsibility }}</h6>
+          <p><em>{{ officer.responsibility }}</em></p>
         {% endif %}
 
         <p><strong>{{ officer.scaname }}</strong>
