@@ -167,6 +167,11 @@ Court report filed by: Court Herald, Ari Mala, daylightjam@gmail.com
 There was no ID court on the Friday night; Their Highnesses sat in
 Their Majesties’ court and were decorative.
 
+Their Highnesses
+created Lady Elen Benet their champion of arts and sciences. Not the
+champion of the competitions that were run, but champion in the sense
+that they have armoured, rapier, and archery champions. 
+
 Children and newcomers were welcomed.
 
 Yannick of Normandy was named Royal Cartographer.
