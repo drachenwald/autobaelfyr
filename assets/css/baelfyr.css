@@ -56,7 +56,7 @@
   }
 
   @page backcoverlayout {
-    background-image: url('/assets/img/id-map.jpg');
+    background-image: url('../img/id-map.jpg');
     background-size: cover;
     bleed: 10mm;
     @bottom-left {
