@@ -5,6 +5,7 @@ _site
 /vendor/
 
 .DS_Store
+node_modules/
 
 
 _data/remote/*
