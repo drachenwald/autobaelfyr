@@ -48,7 +48,7 @@ are now numerous. This guide discusses those, as well as organising payments. Pr
 Drachenwald will be making available a tool to create such a tracker, that also can post a list
 of attendees to your website.
 
-- &gt; [Event Finances Guide](https://insulaedraconis.org/library/publications/Event-Finances1.docx)  
+-&gt; [Event Finances Guide](https://insulaedraconis.org/library/publications/Event-Finances1.docx)  
 Mistress Mary verch Thomas has updated her event finance advice to the present financial
 policies with advice on budgeting, payments and approach. Our game is an event-based
 economy, and with a modicum of planning and a common sense approach, events can be run
