@@ -16,21 +16,21 @@ The second tool is something you may have heard hyped in the media recently. Nam
 
 The first example is a complete work flow from scan to translation. For this I chose the second ‘paragraph’ of the History of William Marshall from the first volume of a three volume set by the Anglo-Norman Text Society, which is presented with the Anglo-Norman on the left and a translation on the right. This OCR covers lines 23 to 38 on page 1. The IRIScan OCR text was perfect, except for a quirk of using spaces instead of line breaks on apparently random occasions, which is a bit weird. I’ve edited these, but that was still far easier than having to transcribe the entire text manually. So with the line breaks corrected we end up with the text:
 
-> Al tens le rei Estiemble avint,
-Kui Engleterre a peine tint 
-E Normendie molement 
-Tant ku'il la perdi folement,
-Kuns chevaliers proz e loials,
-Sire Johan li Mareschals, 
-Qui tant esteit de grant emprise
-E de grant ovre e de grant mise
-Qu'entor lui out plente de buens;
-E si n' esteit il mie kuens 
-Ne baron de tresgrant richesce,
-Mais tant foisona sa largesse
-Ke tute gent s'en merveilloent.
-Neis cil kui point ne l'amoent,
-Qui en avoient grant envire, 
+> Al tens le rei Estiemble avint,<br/>
+Kui Engleterre a peine tint<br/>
+E Normendie molement<br/>
+Tant ku'il la perdi folement,<br/>
+Kuns chevaliers proz e loials,<br/>
+Sire Johan li Mareschals,<br/>
+Qui tant esteit de grant emprise<br/>
+E de grant ovre e de grant mise<br/>
+Qu'entor lui out plente de buens;<br/>
+E si n' esteit il mie kuens<br/>
+Ne baron de tresgrant richesce,<br/>
+Mais tant foisona sa largesse<br/>
+Ke tute gent s'en merveilloent.<br/>
+Neis cil kui point ne l'amoent,<br/>
+Qui en avoient grant envire,<br/>
 En conveneit souvent bien dire.
 
 Then I logged into ChatGPT (you do need an account to use it) and asked whether it could translate Anglo-Norman to English, to which it replied, “Yes, I can translate Anglo-Norman to English. Anglo-Norman is a variety of Old French that was spoken in England after the Norman Conquest in 1066, and it was the language of the ruling class and the legal and administrative system in England for several centuries. While it is similar to modern French in many ways, there are also significant differences in vocabulary, grammar, and pronunciation.
@@ -38,54 +38,54 @@ Then I logged into ChatGPT (you do need an account to use it) and asked whether 
 
 So I gave it the text above and received the following translation:
 
-> At the time when King Stephen reigned,
-When England barely held on
-And Normandy languished
-Until it was foolishly lost,
-There were brave and loyal knights,
-Sir John the Marshal,
-Who was of great enterprise
-And of great work and great expense,
-And had around him plenty of good men;
-And he was not a count
-Nor a baron of very great wealth,
-But his generosity was so abundant
-That all people marveled at it.
-Even those who did not love him,
-Who envied him greatly,
+> At the time when King Stephen reigned,<br/>
+When England barely held on<br/>
+And Normandy languished<br/>
+Until it was foolishly lost,<br/>
+There were brave and loyal knights,<br/>
+Sir John the Marshal,<br/>
+Who was of great enterprise<br/>
+And of great work and great expense,<br/>
+And had around him plenty of good men;<br/>
+And he was not a count<br/>
+Nor a baron of very great wealth,<br/>
+But his generosity was so abundant<br/>
+That all people marveled at it.<br/>
+Even those who did not love him,<br/>
+Who envied him greatly,<br/>
 Had to admit it was often said.
 
 For comparison I present the IRIScan OCR of the ANTS’s translation of the same lines:
 
-> In the reign of King Stephen, 
-who ruled over England with difficulty,
-and Normandy weakly 
-until he was foolish enough to lose it,
-there was a brave and trustworthy knight
-called John the Marshal; 
-he was so enterprising, 
-his affairs on such a scale, 
-that he surrounded himself with many worthy men. 
-And yet he was no earl, 
-no baron with fabulous wealth,
-yet his generosity so increased
-that all were amazed by it. 
-Even those who had no love for him,
-who were very jealous of him, 
+> In the reign of King Stephen,<br/>
+who ruled over England with difficulty,<br/>
+and Normandy weakly<br/>
+until he was foolish enough to lose it,<br/>
+there was a brave and trustworthy knight<br/>
+called John the Marshal;<br/>
+he was so enterprising,<br/>
+his affairs on such a scale,<br/>
+that he surrounded himself with many worthy men.<br/>
+And yet he was no earl,<br/>
+no baron with fabulous wealth,<br/>
+yet his generosity so increased<br/>
+that all were amazed by it.<br/>
+Even those who had no love for him,<br/>
+who were very jealous of him,<br/>
 often could not help but speak well of him.
 
 My second trial was a Cely letter as transcribed by Henry Malden in the 19th century, the original being late 15th century English:
 
-> (Anno lxxvj)
+> (Anno lxxvj)<br/>
 Welbelovyd Brother I recomaund me herttely to yow ferthermore informynge yow that the xiij day of Aprell the zeere above sayd I Robard Cely have ressayvyd of Wylliam Eston mersar of London xijli ster: to pay at Andewarpe in sencyon martte the xxiiij day of June for every nobyll of vjs viijd ster: vijs xd flemeshe and I pray yow to delyver to the sayd Wylliam Eston xijli starlynge at the same ratte takynge a byll of ys honde to paye at London the sayd xijli at a day as longe hafter the day as I toke the mony wys beffore. In wettnes herof I sette my seelle at London the xiij day of Aprell
-per Robard Cely.
-
+per Robard Cely.<br/>
+<br/>
 Addressed: A George Cely.
 
 ChatGPT’s modernization:
 
-> In the year 1476, Dear Brother, I commend myself heartily to you. Furthermore, I inform you that on the thirteenth day of April of the aforementioned year, I, Robert Cely, have received from William Eston, merchant of London, 12 pounds sterling to pay at Antwerp in Saint John's Market on the 24th day of June, for every noble at 6 shillings and 8 pence sterling, 7 shillings and 10 pence Flemish. And I request that you deliver to the aforementioned William Eston 12 pounds sterling at the same rate, taking a bill of his hand to pay at London the said 12 pounds at a day as long after the day as I took the money wise before. In witness hereof, I set my seal at London on the thirteenth day of April, by Robert Cely.
-
+> In the year 1476, Dear Brother, I commend myself heartily to you. Furthermore, I inform you that on the thirteenth day of April of the aforementioned year, I, Robert Cely, have received from William Eston, merchant of London, 12 pounds sterling to pay at Antwerp in Saint John's Market on the 24th day of June, for every noble at 6 shillings and 8 pence sterling, 7 shillings and 10 pence Flemish. And I request that you deliver to the aforementioned William Eston 12 pounds sterling at the same rate, taking a bill of his hand to pay at London the said 12 pounds at a day as long after the day as I took the money wise before. In witness hereof, I set my seal at London on the thirteenth day of April, by Robert Cely.<br/>
+<br/>
 Addressed to George Cely.
 
 Given that I’m used to translation tools being tripped up by even minor spelling errors, ChatGPT has coped almost flawlessly with the English presented here. I’m particularly impressed with the way it has picked out the prices and quantities and expanded them in full. What I found particularly intriguing was the way that the date lxxvj, which is effectively just ’76, has been expanded to 1476. This is correct, but not stated explicitly in the original text. My guess is that ChatGPT’s training data may well have included the Malden texts which would have givena dating context to these letters as a whole. It may mean that ChatGPT hasn’t come to this text completely cold, but it is an impressive 
