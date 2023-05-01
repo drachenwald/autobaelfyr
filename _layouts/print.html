@@ -127,6 +127,8 @@
 
           {% if chapter.author %}
             <h3 style="text-align: right;">By {{ chapter.author }}</h3>
+          {% else if chapter.subtitle %}
+            <h3 style="text-align: right;">{{ chapter.subtitle }}</h3>
           {% endif %}
 
           {{ chapter.content }}
