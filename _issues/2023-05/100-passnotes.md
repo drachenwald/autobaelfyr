@@ -1,7 +1,7 @@
 ---
 title: Passnotes – Event Stewards
-author: Guy de Dinan
-feed: 2023-05-03
+subtitle: Guy de Dinan
+feed: 2023-05-04
 ---
 
 _This is the first of a series of interviews with event stewards._

@@ -1,7 +1,7 @@
 ---
 title: The Writt and Reccord
 author: Niccolas de Estlecce
-feed: 2023-05-05
+feed: 2023-05-06
 ---
 
 ## IRIScan Desk 6 Business and ChatGPT
