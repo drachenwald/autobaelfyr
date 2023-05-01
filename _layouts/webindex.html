@@ -23,7 +23,10 @@ layout: web
 
       {% if thisissue.issue == latest.issue %}
         <div class="text-center">
-          <a class="btn btn-primary m-3 shadow" href="/latest/"><i class="fa-solid fa-print"></i> Printable version</a>
+          <div class="btn-group" role="group">
+            <a class="btn btn-outline-primary my-3 shadow" href="/latest/"><i class="fa-solid fa-print"></i> Printable version</a>
+            <a class="btn btn-outline-primary my-3 shadow" href="/download/"><i class="fa-solid fa-file-pdf"></i> Download PDF</a>
+          </div>
         </div>
       {% endif %}
 

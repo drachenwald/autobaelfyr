@@ -79,6 +79,12 @@
 
         {{ event.summary | markdownify }}
 
+        {% if event['emergency-alert'] != '' %}
+          <p>
+            <strong>⚠️ Important information:</strong> {{ event['emergency-alert'] }}
+          </p>
+        {% endif %}
+
         {% if event['site-address'] != '' %}
           <p>
             <strong>Site address:</strong> {{ event['site-address'] }}
