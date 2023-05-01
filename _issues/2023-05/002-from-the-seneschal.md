@@ -19,28 +19,28 @@ but a wealth of advice and conclusions built from the experience of many of our 
 There should be something for everyone at all stages of their event organisation path, so
 adapt at your leisure!
 
--&gt; [What is your Perfect Event?](https://insulaedraconis.org/library/publications/Perfect-Event.docx)  
+-&gt; [What is your Perfect Event?](https://insulaedraconis.org/library/publications/Perfect-Event.docx) _(docx download)_  
 Lady Ruth of Derlington kindly collated the results of a recent survey on social media that
 asked you what your favourite parts of an event is. We hope this goes on to inspire your event
 planning and refine your offerings.
 
--&gt; [Event Accessibility Questionnaire](https://insulaedraconis.org/library/publications/Venue-accessibility.docx)  
+-&gt; [Event Accessibility Questionnaire](https://insulaedraconis.org/library/publications/Venue-accessibility.docx)  _(docx download)_  
 The Noble Henric Vanden Casteele and the Accessibility, Diversity and Inclusion team have
 generated this very useful set of questions for you to consider when scouting a venue.
 Remember, being able-bodied is a temporary condition, and we want to be as welcoming and
 accessible as possible.
 
--&gt; [Event Planning Timeline](https://insulaedraconis.org/library/publications/Event-Planning-Timeline1.pptx)  
+-&gt; [Event Planning Timeline](https://insulaedraconis.org/library/publications/Event-Planning-Timeline1.pptx) _(pptx download)_  
 Guy de Dinan applies some of his planning experiences to a suggested planning calendar for
 your event. Trading time for stress, this sort of approach has delivered relaxed teams and
 allowed flexibility to deal with the unexpected.
 
--&gt; [Promoting Your Event](https://insulaedraconis.org/library/publications/Event-Promotion-Guide1.pptx)  
+-&gt; [Promoting Your Event](https://insulaedraconis.org/library/publications/Event-Promotion-Guide1.pptx)  _(pptx download)_  
 Henric also provides us with this excellent guide on making all the noise to attract attendees
 to your event. This provides food for thought on various considerations in appealing to your
 audience when competing in the busy world of communications.
 
--&gt; [A Reservations Steward Guide](https://insulaedraconis.org/library/publications/Reservations-Steward-Guide1.docx)  
+-&gt; [A Reservations Steward Guide](https://insulaedraconis.org/library/publications/Reservations-Steward-Guide1.docx) _(docx download)_  
 A group effort has brought this guide together, and updated general advice previously
 available for that under-estimated, yet key, role in an events team. With new technologies
 available, the options available to generating a stable secure and effective list of attendees
@@ -48,7 +48,7 @@ are now numerous. This guide discusses those, as well as organising payments. Pr
 Drachenwald will be making available a tool to create such a tracker, that also can post a list
 of attendees to your website.
 
--&gt; [Event Finances Guide](https://insulaedraconis.org/library/publications/Event-Finances1.docx)  
+-&gt; [Event Finances Guide](https://insulaedraconis.org/library/publications/Event-Finances1.docx) _(docx download)_  
 Mistress Mary verch Thomas has updated her event finance advice to the present financial
 policies with advice on budgeting, payments and approach. Our game is an event-based
 economy, and with a modicum of planning and a common sense approach, events can be run
