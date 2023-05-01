@@ -1,0 +1,22 @@
+---
+layout: web
+title: Download the Baelfyr
+---
+
+<div onload="download()"></div>
+
+<div class="text-center">
+  <p>
+    Your download should begin shortly.
+  </p>
+
+  <p>
+    <a id="dl" class="btn btn-primary shadow" href="/latest.pdf" download>Click here if it doesn't</a>
+  </p>
+</div>
+
+<script>
+  (function download() {
+      document.getElementById('dl').click();
+  })()
+</script>
