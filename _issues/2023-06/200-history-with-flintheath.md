@@ -38,7 +38,7 @@ The cult of Mary may also have affected views of women lower down the social lad
 
 -----------------------------------
 
-Originally posted 25th May 2023
+_Originally posted 25th May 2023_
 
 During the early Anglo-Saxon period the Bourn Valley was on the border between the kingdom of Mercia in the centre of modern England and the kingdom of East Anglia, possibly as part of a semi-independent buffer area between them. What is now Cambridgeshire was absorbed into Mercia in the late 600s and the Bourn Valley appears to have become a single estate mostly used for pasture. Large estates like this were often owned by the local king and portions were granted out to monasteries and the local aristocracy. This administrative change - and the need for farmland to serve a single central authority - led to changes in the way land was farmed across most of central and southern England, moving from small farmsteads and hamlets with collections of fields around them to larger villages with (usually) two or three large, communal fields.
 
