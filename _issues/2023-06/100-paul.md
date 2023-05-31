@@ -41,7 +41,7 @@ He was an excellent gardener and with his lady Anne they transformed their allot
 Beyond that though he was just there and loved to share a story. I will miss hearing of his trip to Italy and ordering Local Speciality, talking while fashioning a beautiful salad in honour of a friend's birthday. The salad contained a stone henge of seats carved out of carrots as said friend had been busy demonstrating the arts of making those benches in wood all Raglan. This was just Paul.
 
 
-He was most of all our mate, our cheery friend, our inspiration that we too' can do it. We will remember him and carry on doing our stuff with him chatting away to us in our mind.
+He was most of all our mate, our cheery friend, our inspiration that we, too, can do it. We will remember him and carry on doing our stuff with him chatting away to us in our mind.
 
 
 So I challenge you all at the earliest opportunity to raise a glass to Earl Paul de Gorey, Master of the Laurel, Member of the orders Lingquist Ring, Silver Guard and Panache, Member of the order of the Queen's Courtesy and Justice of the Peace for the lands of West Dragonshire. Cook, Author, Dancer, Drinker and Laurel for Stuff.
