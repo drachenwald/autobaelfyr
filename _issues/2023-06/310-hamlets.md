@@ -1,7 +1,7 @@
 ---
 title: "So, you want to form your own Hamlet?"
 subtitle: "Eplaheimr-Jin Unegen"
-feed: 2023-06-06
+feed: 2023-06-07
 ---
 
 In the Society for Creative Anachronism we have a hierarchy of ways to organise the game, the larger it is, the more prestigious, but also the more complicated it is as the scale allows us to organise larger and more complex events and activities:

@@ -1,7 +1,7 @@
 ---
 title: Passnotes – Event Stewards
 subtitle: Yannick of Normandy
-feed: 2023-06-05
+feed: 2023-06-06
 ---
 
 _Part of a series of interviews with event stewards._
