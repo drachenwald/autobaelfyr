@@ -1,7 +1,7 @@
 ---
 title: "Paul de Gorey"
 author: Thomas Flamanc
-feed: 2023-06-02
+feed: 2023-06-03
 ---
 
 With the shocking news we received in the last few days I have been asked to write a short obituary to our dear friend Master Paul de Gorey.
