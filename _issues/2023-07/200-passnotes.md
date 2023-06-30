@@ -1,7 +1,7 @@
 ---
 title: Passnotes – Event Stewards
 subtitle: Lady Fianna Rua Nic Mhathúna
-feed: 2023-07-03
+feed: 2023-07-06
 ---
 
 _Part of a series of interviews with event stewards._

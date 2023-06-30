@@ -1,7 +1,7 @@
 ---
 title: A Tale of Assassins at the Castle (report from Strawberry Raid)
 author: Lord Alex of Long Riston
-feed: 2023-07-04
+feed: 2023-07-03
 ---
 
 Let all be warned! For there comes tales of assassins lurking in the Shire of Dun In Mara.
