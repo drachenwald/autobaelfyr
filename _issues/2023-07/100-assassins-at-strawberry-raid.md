@@ -1,9 +1,8 @@
 ---
-title: From their Highnesses
+title: A Tale of Assassins at the Castle (report from Strawberry Raid)
+author: Lord Alex of Long Riston
 feed: 2023-07-04
 ---
-
-### A Tale of Assassins at the Castle (report from Strawberry Raid)
 
 Let all be warned! For there comes tales of assassins lurking in the Shire of Dun In Mara.
 
@@ -23,4 +22,4 @@ This proved prudent as sure enough it was the decoy who fell victim to the assas
 
 Fear of the assassins threat continued up to the last days of the gathering until sight of the returning strength of King Krake who had suffered a hurt to his arm during a fight with Dennis Le Bow, put them to flight.
 
-And so the lands around Sigginstown were once again safe, and tales of the splendid event were carried on the feet of all who attended
+And so the lands around Sigginstown were once again safe, and tales of the splendid event were carried on the feet of all who attended.

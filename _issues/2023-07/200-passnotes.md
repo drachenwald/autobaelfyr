@@ -4,6 +4,8 @@ subtitle: Lady Fianna Rua Nic Mhathúna
 feed: 2023-07-03
 ---
 
+_Part of a series of interviews with event stewards._
+
 <img src="/baelfyr/2023-07/fianna.jpg"
     class="figure-img rounded shadow float-end"
     style="float: right; margin-left: 10px;"
