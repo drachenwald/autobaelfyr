@@ -5,7 +5,7 @@ feed: 2023-07-04
 ---
 
 We recently held the 30 th anniversary event for the Kingdom of Drachenwald near Venlo in the
-Netherlands. Shannon and myself drove there, others took the train or flew, used a ferry pr various
+Netherlands. Shannon and myself drove there, others took the train or flew, used a ferry or various
 combinations depending on where we started. From Insulae Draconis we had to cross water, if on
 the European continent, then uninterrupted land travel was possible. Some even came from across
 the Atlantic. For those of us travelling within the Kingdom, unless we made a deliberate stop
@@ -28,7 +28,7 @@ hours.
 
 Easy, quick, comfortable, and safe. Now.
 
-But what about my persona.? Or yours? And that is the what I want to make you think about. I’m not
+But what about my persona.? Or yours? And that is what I want to make you think about. I’m not
 going to go into detail about what my persona would experience, but rather try and inspire
 questions about what your persona would have had to go through. In fact, reading this article back
 to myself, it is in many ways more a stream of thoughts and ‘whatabouts’, and that suits my purpose
