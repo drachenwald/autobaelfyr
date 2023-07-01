@@ -1,7 +1,7 @@
 ---
 title: Oxford Roll at Ormþing
 author: Baron Nicholas de Estleche
-feed: 2023-07-04
+feed: 2023-07-11
 ---
 
 May all who read these Presents know that during the term of Ormþing to be held during August
