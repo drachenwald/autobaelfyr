@@ -4,7 +4,7 @@ author: Baron Nicholas de Estleche
 feed: 2023-07-04
 ---
 
-We recently held the 30 th anniversary event for the Kingdom of Drachenwald near Venlo in the
+We recently held the 30th anniversary event for the Kingdom of Drachenwald near Venlo in the
 Netherlands. Shannon and myself drove there, others took the train or flew, used a ferry or various
 combinations depending on where we started. From Insulae Draconis we had to cross water, if on
 the European continent, then uninterrupted land travel was possible. Some even came from across
