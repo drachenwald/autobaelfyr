@@ -83,6 +83,7 @@
     string-set: title content(text);
     font-family: "Philosopher";
     font-size: 48px;
+    text-wrap: balance;
   }
 
   h1::after {
