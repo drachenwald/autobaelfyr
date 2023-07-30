@@ -3,6 +3,8 @@ layout: none
 ---
 {%- if jekyll.environment == "production" -%}
 Sitemap: {{ site.url }}/sitemap.xml
+User-agent: ChatGPT-User
+Disallow: /
 {%- else -%}
 User-agent: *
 Disallow: /
