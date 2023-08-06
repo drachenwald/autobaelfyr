@@ -1,13 +1,36 @@
 {% assign bpages = site.issues | where_exp: "item", "item.path contains '000-preamble'" %}
 {% assign issues = bpages | sort: 'issue' %}
 
-<div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+{% assign firstissue = issues | first %}
+{% assign lastissue = issues | last %}
+
+{% assign firstyear = firstissue.issue | slice: 0,4 %}
+{% assign lastyear = lastissue.issue | slice: 0,4 %}
+{% assign selectedyear = page.issue | slice: 0,4 %}
+
+{% assign years_in_index = "" | split: ',' %}
+
+<ul class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
   {% for eachissue in issues reversed %}
-    <a class="btn btn--primary nav-link {% if eachissue.issue == include.thisissue %}active shadow{% endif %} {% if eachissue.issue == page.issue %}active shadow{% endif %}" type="button"
-      {% if eachissue.issue == page.issue %}aria-selected="true"{% else %}aria-selected="false"{% endif %}
-      href="/baelfyr/{{ eachissue.issue }}/"
-      role="tab">
-      {{ eachissue.month }}
-    </a>
+    {% assign thisyear = eachissue.issue | slice: 0,4 %}
+
+    {% unless years_in_index contains thisyear %}
+      {% assign years_in_index = years_in_index | push: thisyear %}
+
+      {% unless thisyear == selectedyear %}
+        <li class="nav-item my-2"><a class="btn btn-outline-primary nav-link" href="/baelfyr/{{ eachissue.issue }}/">{{ thisyear }} issues</a></li>
+      {% endunless %}
+    {% endunless %}
+
+    {% if thisyear == selectedyear %}
+      <li class="nav-item">
+        <a class="btn btn-secondary nav-link {% if eachissue.issue == include.thisissue %}active shadow{% endif %} {% if eachissue.issue == page.issue %}active shadow{% endif %}" type="button"
+          {% if eachissue.issue == page.issue %}aria-selected="true"{% else %}aria-selected="false"{% endif %}
+          href="/baelfyr/{{ eachissue.issue }}/"
+          role="tab">
+          {{ eachissue.month }}
+        </a>
+      </li>
+    {% endif %}
   {% endfor %}
-</div>
+</ul>
