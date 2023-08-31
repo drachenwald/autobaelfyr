@@ -5,6 +5,51 @@ feed: 2023-09-03
 
 ### Ormþing - ID Summer Camping Event
 
+Insulae Draconis court was held by Eularia
+
+This court report is for court on 13 Aug 2023, it's identified as
+Sunday Evening Court.
+
+Court report filed by: Court Herald, Shannon of Oak of Honor Hill.
+
+Baroness Rogned of Eplaheimr was invited into court.
+
+Announcements Event Steward - Viscount Yannick of Normandy
+
+Newcomers & Children were welcomed and presented with tokens
+
+Equestrians - Lady Katherine of Glastonbury reported on the victors in
+the various equestrian tournaments held over the weekend. Insulae
+Draconis Equestrian Protector: Lady Elisabeth Hardyng; Equus Bellator:
+Warhorse Rocky as ridden by Lady Elisabeth Hardyng. The new Insulae
+Draconis Equestrian Champion was announced as Phil of Flintheath, with
+a medallion created and presented by Meliton.
+
+Baroness Rogned of Eplaheimr was invited to say some words in court,
+upon which she greeted her Highness in Gaelic, and asked leave to
+conduct some business, whereupon her Herald Lady Shirin Peroz-Duxt
+lead the proceedings.
+
+Upon the conclusion of her Excellency's court, the attributes
+pertaining to a service award were read out and the Order of Ffraid
+were asked to stand. Her Highness concluded that not all the members
+of the Order had made themselves known, whereupon Viscountess
+Euphrosyne Eirenikina was asked to present herself before her Highness
+and be awarded the Order of Ffraid.
+
+Her Highness had a few words to say about recommending individuals for
+the various awards, and more specifically that suitable tokens were
+also required to present for these awards. Lady Shirin stepped forward
+claiming to be inspired by her words, and presented a carved Acorn Box
+to her Highness, whereupon Her Highness called myself (Shannon of Oak
+of Honor Hill) forward and inducted me into the Order of Ffraid.
+Afterwards I was allowed to close the court of her Highness Eularia,
+Princess of Insulae Draconis, my first ever court.
+
+--------
+
+### Ormþing - ID Summer Camping Event
+
 Insulae Draconis court was held by Alexandre & Eularia
 
 This court report is for court on 18 Aug 2023, it's identified as
