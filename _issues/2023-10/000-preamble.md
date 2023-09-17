@@ -5,5 +5,5 @@ volume: 30
 month: "October 2023"
 layout: print
 credits:
-  cover: ""
+  cover: "Picnic at Bective Abbey. Photo: Chronicler."
 ---
