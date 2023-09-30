@@ -4,8 +4,6 @@ author: Jacquelyna de Bellmont
 feed: 2023-10-03
 ---
 
-## Reminder regarding modern names on the OP
-
 Greetings from Drachenwald's Posthorn Herald!
 
 I hope that you have all seen the good work that the kingdom web team has done to give the Order of Precedence (OP) website a facelift: [https://op.drachenwald.sca.org/](https://op.drachenwald.sca.org/)
@@ -16,6 +14,6 @@ Currently, the only way to get your modern name listed in the OP again, is to fi
 
 I expect to be able to offer this service of collecting answers to the "consent form" more widely in the future. Until then, please feel free to send in your heraldry to be added to your OP page. Instructions can be found on the Correction link of either the main OP webpage or your persona's OP webpage.
 
-Yours In Service,
-Countess Jacquelyna de Bellmont
+Yours In Service,  
+Countess Jacquelyna de Bellmont  
 Drachenwald Posthorn Herald

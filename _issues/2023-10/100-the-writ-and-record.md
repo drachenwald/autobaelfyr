@@ -27,7 +27,7 @@ I grete you wyll and I have resayvyd a lecter from you wryt at Celays the xxix d
 
 per Rychard Cely.
 
-Addressed: To Jorge Cely at Caleys or the mart thys lecter delyverd.
+_Addressed:_ To Jorge Cely at Caleys or the mart thys lecter delyverd.
 
 ### Modernization:
 
@@ -37,4 +37,4 @@ I greet you well and I have received a letter from you, written at Calais on the
 
 By Rychard Cely.
 
-Addressed: To Jorge Cely at Calais or the mart this letter [be] delivered.
+_Addressed:_ To Jorge Cely at Calais or the mart this letter [be] delivered.
