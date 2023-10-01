@@ -1,7 +1,7 @@
 ---
 title: The Writt and Reccord
 author: Nyckolas de Astlache
-feed: 2023-10-04
+feed: 2023-10-05
 ---
 
 ## SC 1/53/45 – 1480 – London – Letter from Richard Cely the Elder to George Cely (his son)
