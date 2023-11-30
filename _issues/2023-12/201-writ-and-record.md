@@ -1,7 +1,7 @@
 ---
 title: The Writ an Record
 author: Niccolas de Estlece
-feed: 2023-12-09
+feed: 2023-12-10
 ---
 
 ## SC 1/53/44 – 1480 – Draft Letter from George Cely to Richard Cely the Elder (his father)
