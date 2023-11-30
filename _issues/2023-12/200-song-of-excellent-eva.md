@@ -1,7 +1,7 @@
 ---
 title: The Song of Excellent Eva
 author: Alexandre d'Avigné
-feed: 2023-12-06
+feed: 2023-12-08
 ---
 
 This past year, I went to Pennsic for the first time in about fifteen years. Despite a few minor setbacks, like the airline losing all my armour for about three weeks, I had a good time. I managed to borrow enough kit to do some fencing and had an absolute blast in the rapier woods battle. I had forgotten how much fun it was, and there were some epic moments.
