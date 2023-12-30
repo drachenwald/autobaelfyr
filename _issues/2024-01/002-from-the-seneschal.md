@@ -1,6 +1,6 @@
 ---
 title: From the Seneschal
-feed: 2023-12-02
+feed: 2024-01-02
 ---
 
 letter goes here
