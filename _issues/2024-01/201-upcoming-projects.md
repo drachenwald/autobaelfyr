@@ -66,3 +66,14 @@ Happy togetherness folks, here’s to a great year ahead!
 Kindest regards
 
 Lady Amy of Osgoldcross.
+
+<div style="text-align: center;">
+  <a href="/baelfyr/2024-01/flag-patterns.png">
+    <figure class="figure">
+    <img src="/baelfyr/2024-01/flag-patterns.png"
+      class="figure-img rounded"
+      alt="Pattern for flags">
+      <figcaption class="figure-caption text-center">Flag patterns - click through for full image</figcaption>
+  </figure>
+  </a>
+</div>
