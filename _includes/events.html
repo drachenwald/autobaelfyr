@@ -65,9 +65,9 @@
           {% endif %}
         </p>
 
-        {% if event.activities %}
+        {% unless event.activities == "" %}
           <strong>Activities:</strong> {{ event.activities }}
-        {% endif %}
+        {% endunless %}
 
         {% if event['progress-id'] == "Both" %}
           <p>The Prince and Princess will be present.</p>
