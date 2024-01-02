@@ -22,7 +22,7 @@ Some of us, like Milord Geroge here, seen wearing his new cloak (and yes, they a
 
 ## Highlights of 2023
 
-I am quite sure that each of us will have settled upon our favourite highlight or indeed highlights from 2023.   I will confess to having a fair few of my own.  One of my most favourite memories is what I like to recall as the ‘Feast of Flags’ from the Michaelmas event held  6th - 8th October at Linnet Clough Scout Camp.  Led by the erstwhile Lady Amy of Oscrossgold, the populace responded with overwhelming generosity to the call for Shire Banners, Personnel Flags and well anything that could be used to decorate the main hall.   It was a true feast for the eyes, don’t you think?
+I am quite sure that each of us will have settled upon our favourite highlight or indeed highlights from 2023.   I will confess to having a fair few of my own.  One of my most favourite memories is what I like to recall as the ‘Feast of Flags’ from the Michaelmas event held  6th - 8th October at Linnet Clough Scout Camp.  Led by the esteemed Lady Amy of Oscrossgold, the populace responded with overwhelming generosity to the call for Shire Banners, Personnel Flags and well anything that could be used to decorate the main hall.   It was a true feast for the eyes, don’t you think?
 
 
 <div style="text-align: center;">
@@ -36,7 +36,7 @@ I am quite sure that each of us will have settled upon our favourite highlight o
 
 
 
-## Thinking forward to 2024
+## Looking forward to 2024
 
 ### Minister of Arts and Science - OFFICERS FOR THE SHIRES
 
