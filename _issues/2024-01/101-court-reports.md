@@ -45,7 +45,7 @@ as a time capsule.
 
 Erin Volga was called forward and awarded Arms.
 
-Grerful na Filé  was called forward and awarded Arms.
+Gwerful an Filí was called forward and awarded Arms.
 
 Michelle of Eplaheimr  was called forward and awarded Arms.
 
@@ -55,3 +55,4 @@ highnesses.
 
 ----------
 
+_Chronicler's note: Corrected the name Gwerful an Filí on 2024-01-02_
