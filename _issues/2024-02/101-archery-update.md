@@ -1,7 +1,7 @@
 ---
-title: Court Reports
+title: Archery Update
 author: Kier of Eplaheimr
-feed: 2024-02-07
+feed: 2024-02-08
 ---
 
 From Lord Kier of Eplaheimr
