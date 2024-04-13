@@ -11,12 +11,12 @@ I was only able to access half of the exhibition, because the other half was up 
 
 Different perspectives were presented through which a medieval scribe would relate to the world: the layout of the continents in a “T and O” map, religion, nature and the seasons, and the connections between the humoural system, astrology and music. Several texts were displayed in the centre of the room, with interpretative panels discussing the different perspectives on the walls. It could have been made more explicit in parts why certain texts were chosen, or which perspective (or perspectives) they were supposed to relate to. 
 
-The strongest sense I was left with, however, was that the exhibit designers felt constrained by the amount of space available to them. Interesting threads of interpretation were started in the display panels, but were typically cut off, before they could actually make a point, by a new thread. Returning to the T and O map, for example, it felt like the writers of the interpretive text wanted to talk about whether the world was conceived of as a disc or a sphere, but were cut off before they actually had a chance to do so. 
+The strongest sense I was left with, however, was that the exhibit designers felt constrained by the amount of space available to them. Interesting thread†s of interpretation were started in the display panels, but were typically cut off, before they could actually make a point, by a new thread. Returning to the T and O map, for example, it felt like the writers of the interpretive text wanted to talk about whether the world was conceived of as a disc or a sphere, but were cut off before they actually had a chance to do so. 
 
 
 <div style="text-align: center;">
   <figure class="figure">
-    <img src="/baelfyr/2024-04/exhibition/board.jpeg" width="800"
+    <img src="/baelfyr/2024-05/exhibition/board.jpeg" width="800"
       class="figure-img rounded"
       alt="Exhibit information board, titled '2. The Known World'">
     <figcaption class="figure-caption text-center">Exhibit information board, titled "2. The Known World"</figcaption>
@@ -32,7 +32,7 @@ While the interpretation left something to be desired, the manuscripts on displa
 
 <div style="text-align: center;">
   <figure class="figure">
-    <img src="/baelfyr/2024-04/exhibition/closeup.jpeg" width="400"
+    <img src="/baelfyr/2024-05/exhibition/closeup.jpeg" width="400"
       class="figure-img rounded"
       alt="close-up on a thirteenth century psalter (MS F.4.7), open on a full page illustration of the Adoration of the Magi in shades of red and blue: the Virgin Mary, crowned with the infant Jesus on the right, holds up a red fleur-des-lys. The three kings are gathered presenting gifts, with one kneeling, his crown placed on his knee">
     <figcaption class="figure-caption text-center">Close-up on a thirteenth century psalter (MS F.4.7)</figcaption>
@@ -48,7 +48,7 @@ The standout piece for me was this folding almanac, with saints’ days on one s
 
 <div style="text-align: center;">
   <figure class="figure">
-    <img src="/baelfyr/2024-04/exhibition/almanac.jpeg" width="800"
+    <img src="/baelfyr/2024-05/exhibition/almanac.jpeg" width="800"
       class="figure-img rounded"
       alt="a folding printed almanac, displayed as an unfolded strip of paper segmented into months. Each month has a hand-coloured woodcut depiction of typical activities for that month, accompanied by a circle diagram using red and black lines to show the relative length of days and nights in that month. Accompanying display text gives some context to the object, and shows the reverse side of the almanac: a perpetual calendar, with saints’ days indicated by images of the saint.">
     <figcaption class="figure-caption text-center">A folding printed almanac</figcaption>
