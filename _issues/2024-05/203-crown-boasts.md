@@ -4,7 +4,21 @@ title: Spring Crown Boasts
 
 _When Crown Tourney is held here in the isles, we make a special effort to have each couple heralded into the list as befits their stature and accomplishments. We also like to try to reproduce these boasts in the Baelfyr. From Spring Crown which took place last month just outside Belfast, here is a selection of the boasts._
 
+### Rodrigo and Teresa
 
+Your Majesties, Your Highnesses, Your Excellencies,
+
+I am Rodrigo Bernardez, Baron to the Court of the West, and now your Majesties most humble servant.
+
+I am inspired this day by the grace and beauty of Lady Teresa of Dun In Mara who, regardless of the outcome of this tourney already reigns in my heart.
+
+And to the friends with whom I have the honour to cross swords with today, I remind you that the path to the Crown lies through me. I will do my best to make sure it is not an easy one.
+
+### Agnes and Aodh
+
+This is Master Aodh. He would have me tell you that he cooks, which he does. He is also a man of discernment and a shaper of words. A kingdom ruled by Aodh would be ruled wise and well. 
+
+His champion is Master Agnes, who is a force to be reckoned with on the field and off. She is fierce in protecting and improving any cause which she finds worthy. A kingdom ruled by her would be fortunate beyond all others.
 
 ### Yda and Sela
 
