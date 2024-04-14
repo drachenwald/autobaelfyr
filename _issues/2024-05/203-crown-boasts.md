@@ -14,15 +14,21 @@ I am inspired this day by the grace and beauty of Lady Teresa of Dun In Mara who
 
 And to the friends with whom I have the honour to cross swords with today, I remind you that the path to the Crown lies through me. I will do my best to make sure it is not an easy one.
 
+-----
+
 ### Agnes and Aodh
+
+_Heralded by Master Alexandre_
 
 This is Master Aodh. He would have me tell you that he cooks, which he does. He is also a man of discernment and a shaper of words. A kingdom ruled by Aodh would be ruled wise and well. 
 
 His champion is Master Agnes, who is a force to be reckoned with on the field and off. She is fierce in protecting and improving any cause which she finds worthy. A kingdom ruled by her would be fortunate beyond all others.
 
+-----
+
 ### Yda and Sela
 
-Composed by Aodh O Siadhail, heralded by Erin Volya
+_Composed by Aodh O Siadhail, heralded by Erin Volya_
 
 From forth the lands of Dun in Mara come,   
 And Polderslot, a pair to claim the thrones.  
@@ -40,14 +46,13 @@ With those here who'd her oppose - the scoundrels!
 Fight with honour, fight with glee, but the most:  
 Unto Sela and Yda, raise a toast.  
 
-
 -----
 
 ### Etienne and Susannah
 
-Composed and heralded by Baroness Melisende Fitzwalter OL
+_Composed and heralded by Baroness Melisende Fitzwalter OL_
 
-_Chronicler's note: the morning of the tourney, Baroness Melisende woke up, looked at the schedule, and chose violence._
+_**Chronicler's note:** the morning of the tourney, Baroness Melisende woke up, looked at the schedule, and chose violence._
 
 My Sovereigns, Leigelords, Nobles, gentles all  
 who harken to these words, retreat your thoughts  
