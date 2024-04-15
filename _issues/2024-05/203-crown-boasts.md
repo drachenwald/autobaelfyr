@@ -53,6 +53,48 @@ Valda and Joel, Drachenwald! Their teeth and ambitions are bared! Be prepared!
 
 -----
 
+### Mícheál and Gwerful
+
+Your Majesties, your highnesses, Lords and Ladies, we begin with a humble question. 
+
+
+What is best in life?  
+To sleep in a good bed. To spend the day well, and to return to hearth and home, satisfied 
+
+
+What is best in life?  
+To drink tasty beer. To break bread with, and to revel in the company of fast friends.
+
+
+What is best in life?  
+To acquire fine things. To adorn yourself with them, and to bask in desire and envy.
+
+
+What is best in life?  
+To build your prestige. To rally allies under your banner, and to solidify your authority.
+
+
+What is best in life?  
+To crush your enemies. To see them pushed before you, and to hear the lamentation of their people.
+
+
+What is best in life?  
+To win the throne. To rule the entire land, and to have a bridge named after us.
+
+
+This is best in life!  
+This is best in life!
+
+
+Your majesties! Today we strive to make it so. Remember us!  
+Dread poet Gwerful!  
+Mícheál dubh!
+
+Muahahahahahaha!!  
+!!
+
+-----
+
 ### Jon and Ellisif
 
 _Composed by Ari Mala_
