@@ -26,6 +26,51 @@ His champion is Master Agnes, who is a force to be reckoned with on the field an
 
 -----
 
+### Valda and Joel
+
+_Composed by Ari Mala_
+
+A quick word, Your Majesties. This boast was written by Mala. Her boasts are largely homage
+to the late Professor Peter Schickele of the University of Southern North Dakota at Hoople.
+Some of his methods have rubbed off. Namely, plagiarism. Which is to say, be prepared to hear
+things you may have heard before...
+
+So. Valda ingen Chaemghin. Mighty virago. Joel Ben Stuart. Grace and beauty. We hold these
+truths to be self-evident. Here they are (Joel and Valda do not advance. Herald pauses, repeats,
+louder) HERE THEY ARE.
+
+_sotto voce_ Come on, you guys. You’re on. (Valda and Joel advance).
+
+They are born to be—not kings. Let us say rulers. Monarchs. Princes of the universe. Here they
+belong. They fight to rule in a world with the darkest powers. (Heh. Modesty forbids. What
+happens in Brighthelm stays in Brighthelm.) They’ve come to be the rulers of us all! Valda has
+no rival. No man can be her equal. (Well, maybe Joel.)
+
+Yes, people talk about her. We hear it every day. She will pass this test. With her sword and
+head held high, she will SMITE. FIRST. TIME.
+
+Valda and Joel, Drachenwald! Their teeth and ambitions are bared! Be prepared!
+
+-----
+
+### Jon and Ellisif
+
+_Composed by Ari Mala_
+
+Your Majesties, come before you now MistressDameMagistra Ellisif Gydasdottir and Sir Jon-no-
+H fitz John-yes-H. You may think they are her merely to apply pressure—peer pressure—to the
+lists. And, largely, that’s true. You may think they stand before you as two separate people. You
+are wrong! I tell you, Sir Jon and MistressDameMagistra Ellisif are one! One singular sensation,
+every little step they take! One thrilling combination, every move that they make. They smile.
+Suddenly nobody else will do.
+
+One moment in their presence and you can forget the rest. For this pair are second best to
+NONE. They walk into a room and you know they’re uncommonly rate, very unique, peripatetic,
+poetic, and chic. I can’t. Help. All of their qualities extolling! People of Drachenwald, the rightful
+heir (singular) to the throne!
+
+-----
+
 ### Yda and Sela
 
 _Composed by Aodh O Siadhail, heralded by Erin Volya_
