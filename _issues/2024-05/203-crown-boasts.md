@@ -135,6 +135,29 @@ Unto Sela and Yda, raise a toast.
 
 -----
 
+### Jan and Victoria
+
+Greetings Your Majesties,  
+We are honored to be allowed to enter Your Crown List to select your heirs.
+
+Greetings Noble Cousins, allow me to introduce to you….Maestra Victoria Piera Rosselli.  
+She is, in my mind, a Pillar of the Society.  
+Organizing a Kingdom-Level event for 150 people?  
+She won’t blink an eye!  
+Organizing an almost weeklong event for hundreds of people, in the middle of a plague?  
+Ok, she will blink an eye.  
+But I think her greatest feat…. is keeping me in check!  
+She takes care of me, when I do not.  
+She kicks me in the butt, when I need to be kicked in the butt.  
+I am privileged and honored to fight for you.
+
+Also allow me to introduce myself.  
+I am Jan van Nyenrode,  
+My friends call me Jan Van or Waffles.  
+I am a simple fighter from Polderslot and am honored to be here on this joyous occasion.
+
+-----
+
 ### Etienne and Susannah
 
 _Composed and heralded by Baroness Melisende Fitzwalter OL_
