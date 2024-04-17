@@ -26,7 +26,7 @@ His champion is Master Agnes, who is a force to be reckoned with on the field an
 
 -----
 
-### Valda and Joel
+### Valda and Joel
 
 _Composed by Ari Mala_
 
@@ -135,7 +135,7 @@ Unto Sela and Yda, raise a toast.
 
 -----
 
-### Jan and Victoria
+### Jan and Victoria
 
 Greetings Your Majesties,  
 We are honored to be allowed to enter Your Crown List to select your heirs.
