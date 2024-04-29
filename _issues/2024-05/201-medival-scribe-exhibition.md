@@ -11,7 +11,7 @@ I was only able to access half of the exhibition, because the other half was up 
 
 Different perspectives were presented through which a medieval scribe would relate to the world: the layout of the continents in a “T and O” map, religion, nature and the seasons, and the connections between the humoural system, astrology and music. Several texts were displayed in the centre of the room, with interpretative panels discussing the different perspectives on the walls. It could have been made more explicit in parts why certain texts were chosen, or which perspective (or perspectives) they were supposed to relate to. 
 
-The strongest sense I was left with, however, was that the exhibit designers felt constrained by the amount of space available to them. Interesting thread†s of interpretation were started in the display panels, but were typically cut off, before they could actually make a point, by a new thread. Returning to the T and O map, for example, it felt like the writers of the interpretive text wanted to talk about whether the world was conceived of as a disc or a sphere, but were cut off before they actually had a chance to do so. 
+The strongest sense I was left with, however, was that the exhibit designers felt constrained by the amount of space available to them. Interesting threads of interpretation were started in the display panels, but were typically cut off, before they could actually make a point, by a new thread. Returning to the T and O map, for example, it felt like the writers of the interpretive text wanted to talk about whether the world was conceived of as a disc or a sphere, but were cut off before they actually had a chance to do so. 
 
 
 <div style="text-align: center;">

@@ -5,5 +5,5 @@ volume: 32
 month: "May 2024"
 layout: print
 credits:
-  cover: ""
+  cover: "Recognition of the heirs at Spring Crown. Photo by Richard of Salesbury."
 ---
