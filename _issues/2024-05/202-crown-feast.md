@@ -1,6 +1,7 @@
 ---
 title: An Early Irish Feast for Crown
 author: Aodh Ó Siadhail
+feed: 2024-05-15
 ---
 
 Spring Crown this year was hosted by Dun in Mara in the territory of Glen Rathlin. As with almost all SCA projects, this feast didn't quite hit all the things I intended. In particular, I'd been thinking of having documentation available alongside it, and of a few more dishes that didn't make it in the end. A fermented porridge was high on that list. Next time!

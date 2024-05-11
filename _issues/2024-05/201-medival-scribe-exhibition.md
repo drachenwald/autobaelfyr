@@ -1,6 +1,7 @@
 ---
 title: The Perspective of the Medieval Scribe
 author: Henric van den Casteele
+feed: 2024-05-14
 ---
 
 _Thoughts from an exhibition at Magdalene College, Cambridge._

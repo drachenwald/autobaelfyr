@@ -1,5 +1,6 @@
 ---
 title: Spring Crown Boasts
+feed: 2024-05-16
 ---
 
 _When Crown Tourney is held here in the isles, we make a special effort to have each couple heralded into the list as befits their stature and accomplishments. We also like to try to reproduce these boasts in the Baelfyr. From Spring Crown which took place last month just outside Belfast, here is a selection of the boasts._
