@@ -33,9 +33,9 @@ current thoughts. To counter this I’ve also started keeping a record at WikiDo
 ------
 
 
-## UNDERARM vs HALF-SHIELD
+## UNDERARM vs HALF-SHIELD
 
-## Plate 3
+## Plate 3
 
 ### Text
 
@@ -45,7 +45,7 @@ his opponent's upper part; if he attacks the lower part, it will be dangerous to
 But the one who adopts Half-Shield can enter and attack the Priest at any time, if the
 Priest omits what he should do, as is written below.
 
-### Notes
+### Notes
 
 Remember the sloped stance of I.33. Against half-shield, there is no opening to the head
 and the torse is withdrawn. The half-shield guard is high, but going underneath to the legs
@@ -83,7 +83,7 @@ If he counterbinds and steps, your counter should use a Shield-Strike
 
 Despite the final line advocating a Shield-Strike, this is not what the later examples do.
 
-### Text
+### Text
 
 He who lies above sends a blow towards the head without a Shield-Strike if he is an
 ordinary combatant. But if you wish to learn from the Priest's advice, then counterbind
@@ -213,7 +213,7 @@ Here we resume Underarm for the sake of certain actions of the first sequence, i
 First Guard, that have been discussed previously. But everything here you will find in the
 first folio, up to the change of the sword
 
-### Image 2.1
+### Image 2.1
 
 We have reset to the beginning, with the Priest in Underarm, buckler covering the sword
 arm, and the Scholar in Half-Shield. The lPriest’s leg position is more ambiguos as the back
@@ -260,7 +260,7 @@ is taking some of the momentum into his sword whilst starting to deflect the Sch
 practice the Priest’s sword will also have to be pointing slightly out of the page as his hand
 rolls, which will also be roughly coincident with the line the Scholar is pressing.
 
-### Text
+### Text
 
 Here the Scholar is in need of good advice on how to resist this. And you should know that
 when the play is in the state shown here, then one should execute a thrust [Stich], as is
