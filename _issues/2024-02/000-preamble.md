@@ -1,7 +1,7 @@
 ---
 issue: 2024-02
 anno: LVIII
-volume: 32
+volume: 31
 month: "February 2024"
 layout: print
 credits:
