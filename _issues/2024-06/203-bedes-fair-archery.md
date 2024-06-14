@@ -1,5 +1,6 @@
 ---
 title: Archery at St Bede's Fair
+author: Áfríðr Eiríksdóttir
 feed: 2024-06-20
 ---
 

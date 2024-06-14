@@ -42,7 +42,7 @@ So, come join in, see your mates, make new friends and have a jolly old time!
 
 It may be some time away, but the Principality's summer event is up for grabs and is needed to start assembling a planning team pretty soon. Couronne de Caldicot's been in the works for nearly eighteen months, and getting a prestige site for a decent hire fee takes a lot of forward planning. Caldicot could happen again, or you may know of another cool site. Drop me a line.
 
-### Handing in my Notice
+### Handing in my Notice
 
 It is three months now until I hang up my quill and step away from the role of Seneschal. The hunt is on for my successor. Surprising no-one, I am bringing in a form to help move things into a more open process than just tapping on a shoulder. I am happy to answer questions below.
 
