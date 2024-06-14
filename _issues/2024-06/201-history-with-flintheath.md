@@ -1,0 +1,49 @@
+---
+title: History with Flintheath
+author: Rebecca of Flintheath
+feed: 2024-06-18
+---
+
+_Originally posted 2nd May 2024_
+
+Old English is the earliest direct ancestor of modern English, originating in the Germanic languages of the various European settlers collectively known as the Anglo-Saxons. Their various languages merged with Latin, local Brythonic languages - the ancestors of Scots Gaelic and Welsh - and the Old Norse spoken by Viking invaders and settlers to create Old English, which is believed to have truly emerged by around 550 AD and lasted until around 1150.
+
+Very little Old English survives in written form, since the main language of learning remained Latin. Only about 200 surviving manuscripts contain any Old English at all, the earliest dating from around 700AD but the bulk of them from 900-1000, the period following the reign of King Alfred, who encouraged writing in Old English so that the texts would be accessible to more readers.
+
+One of the words we know is 'wealh' (plural 'wealas'), which has come down in modern English as 'welsh' but originally meant 'foreigner', ironically since it was the term for the native Britons. It later came to imply 'unfree', suggesting that the Britons were regarded as inferior by their Germanic neighbours. If vocabulary is anything to go by, the two groups had very little to do with each other, since only about thirty of the known words in Old English appear to have come from Brythonic. However, this may be misleading; some studies have shown that the sound patterns of Old English did come from a lost Brythonic language (which can best be traced in Old Irish). It appears that even if they kept their native vocabularies, the Anglo-Saxons picked up a local accent.
+
+-----------------------------------
+
+_Originally posted 10th May 2024_
+
+One of the many roles monasteries played in medieval society was as educational institutions. It was common for monasteries to run schools for the boys who helped at mass in the monastery, at least theoretically selecting boys whose parents would not otherwise be able to pay for them to have a good education with the aim that they would ultimately become priests themselves; their support and education was part of the general charitable work of the monastery known as alms. In many cases, especially as such almonry schools became more woven into the institutions of their monasteries, the boys educated at them were chosen using qualifications other than poverty and merit, a fact that gave jurists of the 1400s some discomfort, but the monastery schools provided such an important service that many of them continued in other forms after the dissolution of their associated monasteries.
+
+Very few records survive of the early days of almonry schools; we don't know of any that existed before the mid 1200s. However, even before that there are records of monasteries providing lodging for boys attending local secular grammar schools, such as Bury Saint Edmunds Abbey in the late 1100s, which housed two boys when the local school was in session. This appears to have been an extension of the general obligation of monastery almonries to house small numbers of the poor: usually those who were elderly or infirm. Other monasteries and abbeys may also have had similar arrangements; the early records of the school at Ely suggest that there was some continuity from an earlier system. However, the most detailed account of an early school - from Norwich in 1288 or 1289 - explicitly contains language suggesting a new venture, supporting the idea that it was at around this time that formal schools began to emerge.
+
+According to the rules set down in Norwich, the school was set up "intuitu caritas" (through the promptings of charity) and the thirteen boys who attended were to be educated in Latin and in general good behaviour. They must be poor and no boy could be admitted who had a physical infirmity that would bar him from eventual ordination as a priest such as blindness, leprosy, epilepsy, or missing limbs. There was no requirement for the boys to become priests when they grew up, but this appears to have been a preferred choice for their future careers.
+
+Norwich - at least on paper - chose boys from among the worthy poor for its pupils, but this was not the only criterion used; when Ely formalised its school in 1315 it was clear that the intent was to benefit individuals the monks wished to benefit; the available slots were filled by boys individually presented to the school by monks and (with the consent of the prior and chapter) particular secular friends of the monastery. Since the monastery alms were used to support the school, this gave rise to some discomfort; those goods and funds were supposed to be used for helping the poor. However, Christian teachings also encouraged monks to take care of their own kin, so even critics admitted that a preference for educating family members of monks was not necessarily a problem (though it was still best if they were planning to become monks or priests themselves).
+
+-----------------------------------
+
+_Originally posted 16th May 2024_
+
+The 18th of May is the wedding anniversary of Henry II (then only Duke Henry of Normandy) and Eleanor of Aquitaine. He was her second husband, married in a hurry after her divorce from King Louis VII of France, and the wedding earned Henry the lifelong enmity of Louis for both political and personal reasons.
+
+Eleanor had been seeking a way out of her marriage to Louis for some time. They had been married shortly after the death of her father when she was thirteen and he was seventeen, but although Louis apparently genuinely loved her she was not happy with him and their marriage started to seriously unravel during the disastrous Second Crusade, during which Eleanor was rumoured to have had an affair with her own uncle while she was staying in his court at Antioch. Despite marriage counselling from the pope himself, the marriage was annulled in 1152 and - with her expansive and wealthy duchy of Aquitaine back in her hands - Eleanor was suddenly the most eligible woman on the European marriage market.
+
+Eleanor had probably chosen her next husband even before her marriage to Louis was annulled. She had met Henry seven months before when he visited the French court with his father and although she was nine years older than him they may have made arrangements then in case she found herself single in the near future. Some have even speculated that jealousy over Eleanor flirting with Henry may have been the final nail in the coffin that prompted Louis to separate himself from her.
+
+As soon as the annulment was final, Eleanor headed straight for her capital at Poitiers, evading kidnapping attempts by Count Thibald of Blois and Henry's younger brother Geoffrey. As soon as she arrived, she sent for Henry, who abandoned plans to invade England and came immediately to meet her. They were married in a short and discreet ceremony less than two months after she had left Louis, deeply offending her previous husband - also Henry's feudal overlord - and transforming the map of France in a stroke.
+
+-----------------------------------
+
+_Originally posted 24th May 2024_
+
+St Bede, also known as the Venerable Bede, is the author of the Ecclesiastical History of the English People, the best surviving source on English history during the Anglo-Saxon period. However, this was only one of his works: he also wrote extensively on other topics and considered himself primarily an author of Biblical commentary; the noted missionary Boniface, working in what is now Germany in the 700s, wrote to the abbot of Bede's monastery at Wearmouth-Jarrow to specifically request copies of Bede's books. However, the thing he remains most known for is his historical writing; the Ecclesiastical History was extensively copied and was available all over Europe, including being printed in about 1480.
+
+Bede joined the monastery at Wearmouth-Jarrow when he was seven and grew up there, becoming a deacon at 19 (six years earlier than the canonical age at which he would be eligible) priest at the age of 30. Almost nothing is known of his family, but his parents were almost certainly Christian and given that according to Bede himself they were able to call on a relationship with the influential abbot Benedict Biscop to secure an education for their son they were probably wealthy and well-connected. As an adult, as well as writing he taught in the monastic school and apparently took particular interest in art, music, and poetry. His interest in geography and science is also obvious in his writing and the young age at which he became a deacon suggests that he was already recognised as an outstanding scholar; exceptions to the age limits were sometimes made in such cases.
+
+Wearmoth-Jarrow was a twin monastery and Bede lived in the Jarrow half. It was particularly noted for scholarship, with a library that included books imported from Italy and France. Bede had access to books on chronology, history, hagiography (lives of saints), and commentaries on the Bible. His sources for the Ecclesiastical History included Orosius, Pliny, and Solinus as well as Gildas, who he relied on heavily for the earlier portions of the book, and anonymous authors of biographies of important figures such as Pope Gregory and Saint Cuthbert. However, the fact that when he was put in charge of the education of young monks Bede worked so hard to write new teaching texts suggests that he found the library wanting.
+
+As well as being one of the best sources we have on Anglo-Saxon history, Bede has influenced historical discussion to this day in a subtle way: he popularised "AD" dating, meaning "Anno Domini" (The Year of Our Lord) for years since the birth of Jesus. His style of referring to years is only now starting to give way to the religiously-neutral "CE".
