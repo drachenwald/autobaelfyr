@@ -74,8 +74,8 @@ participants were asked to shoot the French spy stealing the English
 horse, not the Horse. With special commiseration prizes given to those
 who lost arrows by the ‘Robin Hood method’, The Honourable Lord Guy de
 Dinan and The Honourable Lord Nero Lupo both receiving that
-commiserating honour. The bravest to shoot that day was Lord Rowan
-Wagstaff-Weston.
+commiserating honour. The bravest to shoot that day was Lord 
+Radulfus de Wiston.
 
 Although by this time they had already packed up and left, the
 Equestrians were confirmed to be magnificent and very entertaining for
