@@ -5,5 +5,5 @@ volume: 31
 month: "June 2024"
 layout: print
 credits:
-  cover: "From a trip to Shetland and Orkney. Photo by Christine Bess Duvant."
+  cover: "Aurora over Maynooth Castle. Photo by the Chronicler."
 ---

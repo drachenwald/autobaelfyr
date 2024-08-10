@@ -5,5 +5,5 @@ volume: 31
 month: "August 2024"
 layout: print
 credits:
-  cover: ""
+  cover: "From a trip to Shetland and Orkney. Photo by Christine Bess Duvant."
 ---
