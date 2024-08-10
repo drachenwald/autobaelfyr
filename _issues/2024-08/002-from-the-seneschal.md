@@ -12,7 +12,7 @@ I will be honest, this has been a difficult two years, but that has been due to 
 
 This Principality is burgeoning, membership rose 3% on the quarter, with 316 SCA CIC UK membership and this is down to the hard work of many people running regular displays, events and practices. It has been a privilege sitting here, reading the quarterly reports of such activities over the last two years. long may this continue!
 
-It is this collaboration, consent and trust between people who would not always be close friends, but drawn together in the spirit of common purpose, that of enjoyment, learning and prowess in our many offerings. Forbearance and a knowledge that one's word and behaviour travels far is the foundation of Grace, Chivalry and above all, an open, safe and welcoming atmosphere. THat is the key to our future.
+It is this collaboration, consent and trust between people who would not always be close friends, but drawn together in the spirit of common purpose, that of enjoyment, learning and prowess in our many offerings. Forbearance and a knowledge that one's word and behaviour travels far is the foundation of Grace, Chivalry and above all, an open, safe and welcoming atmosphere. That is the key to our future.
 
 We are an organisation of volunteers, building communities across these lands and as long as that trust, courtesy and open-minded acceptance of each other's interests remains, this Principality will achieve even more renown and attractiveness to members new and old. 
 
