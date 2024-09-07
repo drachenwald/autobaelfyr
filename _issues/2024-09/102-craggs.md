@@ -1,5 +1,5 @@
 ---
-title: History with Flintheath
+title: Visit to Knaresborough
 author: Amy of Osgoldcross
 feed: 2024-09-11
 ---
