@@ -17,7 +17,7 @@ As Scandians from across the Principality gathered together - the joy that is un
 
 <div style="text-align: center;">
   <figure class="figure">
-    <img src="/baelfyr/2024-09/flags01.png" width="400" class="figure-img rounded"/>
+    <img src="/baelfyr/2024-10/flags/flags01.jpg" width="400" class="figure-img rounded"/>
   </figure>
 </div>
 
@@ -27,7 +27,7 @@ My grateful thanks to Flintheath - for the loan of their precious heraldry.
 
 <div style="text-align: center;">
   <figure class="figure">
-    <img src="/baelfyr/2024-09/flags02.png" width="400" class="figure-img rounded"/>
+    <img src="/baelfyr/2024-10/flags/flags02.jpg" width="400" class="figure-img rounded"/>
   </figure>
 </div>
 
@@ -39,7 +39,7 @@ Thank you to Pont Alarch for the loan of their Gonfalon
 
 <div style="text-align: center;">
   <figure class="figure">
-    <img src="/baelfyr/2024-09/flags03.png" width="400" class="figure-img rounded"/>
+    <img src="/baelfyr/2024-10/flags/flags03.jpg" width="400" class="figure-img rounded"/>
   </figure>
 </div>
 
@@ -49,7 +49,7 @@ Many thanks to Flintheath for the loan of this amazing piece of artwork.
 
 <div style="text-align: center;">
   <figure class="figure">
-    <img src="/baelfyr/2024-09/flags04.png" width="400" class="figure-img rounded"/>
+    <img src="/baelfyr/2024-10/flags/flags04.jpg" width="400" class="figure-img rounded"/>
   </figure>
 </div>
 
@@ -61,7 +61,7 @@ Perhaps some shields on the motte might look amazing next time around?
 
 <div style="text-align: center;">
   <figure class="figure">
-    <img src="/baelfyr/2024-09/flags05.png" width="400" class="figure-img rounded"/>
+    <img src="/baelfyr/2024-10/flags/flags05.jpg" width="400" class="figure-img rounded"/>
   </figure>
 </div>
 
@@ -78,12 +78,12 @@ next time.
 
 <div style="text-align: center;">
   <figure class="figure">
-    <img src="/baelfyr/2024-09/flags06.png" width="400" class="figure-img rounded"/>
+    <img src="/baelfyr/2024-10/flags/flags06.jpg" width="400" class="figure-img rounded"/>
   </figure>
 </div>
 <div style="text-align: center;">
   <figure class="figure">
-    <img src="/baelfyr/2024-09/flags07.png" width="400" class="figure-img rounded"/>
+    <img src="/baelfyr/2024-10/flags/flags07.jpg" width="400" class="figure-img rounded"/>
   </figure>
 </div>
 
@@ -97,7 +97,7 @@ As a memento, I presented each with a homemade but beautifully crafted, tiny vik
 
 <div style="text-align: center;">
   <figure class="figure">
-    <img src="/baelfyr/2024-09/flags08.png" width="200" class="figure-img rounded"/>
+    <img src="/baelfyr/2024-10/flags/flags08.jpg" width="200" class="figure-img rounded"/>
   </figure>
 </div>
 
