@@ -5,5 +5,5 @@ volume: 32
 month: "October 2024"
 layout: print
 credits:
-  cover: "***placeholder***"
+  cover: "Susannah gets a visit from the Doctor"
 ---
