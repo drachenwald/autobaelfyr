@@ -20,27 +20,29 @@ with religious virtues, or otherwise with heraldic imagery, but heraldry is limi
 
 However, there is one way to get to a ‘Company of the’ in English, and that is with the crews of ships, using its name. This pattern is evident in documents such as HCA 30/840/30, from 1636, in the UK National Archives: “John Holt, Andrew Davys, Edward Burges, Briant Middleton, Thomas Smyth, Edward Dale, James Lucy, Thomas Shotten, Edmond Weekes, Emanuel Rogers, Josias Wilkinson, James Symes, John Clarke, Roger Russell, John Jones, Phillip Pritchards, Thomas Ayres and Constantine Woodroff, company of the White Lion of which Thomas Middleton was the master”. It’s also a pattern that the College of Heralds recognizes for registration. So we have the pattern, and the problem changes to documenting a ship called the Dawn.
 
-To this end, I went through a number of the SC8 records ay the UK National Archives, as well as some other directly transcribed catalogue entries. The SC8 series have the advantage of being freely available as digital images, so you can see what is actually written, albeit often in Norman French. The extracted names can be found [(here)](https://docs.google.com/spreadsheets/d/1k43g-0-PUCw4ACKAw1UHbeF0wlvhDglW). (which is based on just a sample, and hence far from comprehensive). This shows the development of the three main patterns: saints, places and people, the latter as full, first or surnames. But no concepts in the way we would think of them.
+To this end, I went through a number of the SC8 records ay the UK National Archives, as well as some other directly transcribed catalogue entries. The SC8 series have the advantage of being freely available as digital images, so you can see what is actually written, albeit often in Norman French. The extracted names can be found [here](https://docs.google.com/spreadsheets/d/1k43g-0-PUCw4ACKAw1UHbeF0wlvhDglW). (which is based on just a sample, and hence far from comprehensive). This shows the development of the three main patterns: saints, places and people, the latter as full, first or surnames. But no concepts in the way we would think of them.
 
 The most promising avenue, would be personal names. It’s probably rarer not to be able to document something in the English naming pool than to be able to. For example, Darth Vader is a plausible English name using period naming patterns, although, to my knowledge, no actual individual ever bore it.
 
 Examples of such ships include:
-the barke berrye
-the Buysse of Briele
-the Godeyere of Newcastle
-the Minnikin / the Mynykyn
+
+* the barke berrye
+* the Buysse of Briele
+* the Godeyere of Newcastle
+* the Minnikin / the Mynykyn
 
 Dawn is a modern first name, but I couldn’t document that to period. I was also somewhat surprised to only find Dawn as a surname a couple of times. However, the variant Dawne was far more common. I usually use parish records as my first stop for finding names; they are after all intended to be lists of every person who was born (given baptism was ubiquitous), married and died (given
 that burial was essential), and for those interested in the details:
-Wootton Wawen, Warwickshire:
+
+* Wootton Wawen, Warwickshire:
 Marriage 1646 Julij: 26 Rob[er]tus Salt &amp; Johanna dawne
-Shustoke, Warwickshire:
+* Shustoke, Warwickshire:
 1563: John dawne the sonne of Johne dawne was baptized ye xxv day of Aprell
-Tamworth, Staffordshire:
+* Tamworth, Staffordshire:
 October 1566: 17 were M[arried]: Andrew Cowp &amp; Ales Dawne.
-Brandesburton, Yorkshire:
+* Brandesburton, Yorkshire:
 Marriage: 1578: Novembris 23: Gilbertus Dawne &amp; Isabella Rarnar
-Tenterden, Kent:
+* Tenterden, Kent:
 January 1580: Josephe Dawne bur[ie]d y 18th of Janua[ry]
 
 Hence, using a ship named for someone in the Dawne family, we end up with the registered name of ‘The Company of the Dawne’.
@@ -64,7 +66,7 @@ In looking to follow period inspiration, there was obviously the London guild ar
 
 <div style="text-align: center;">
   <figure class="figure">
-    <img src="/baelfyr/2024-10/writ/1.png" width="500" class="figure-img rounded"/>
+    <img src="/baelfyr/2024-10/writ/01.png" width="500" class="figure-img rounded"/>
   </figure>
 </div>
 The combined arms of the Armourers and Braziers Guild of the City of London (modern rendition in colour)
