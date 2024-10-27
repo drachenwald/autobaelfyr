@@ -1,7 +1,7 @@
 ---
 title: Bystander Intervention Training
 author: Henric van den Casteele
-feed: 2024-10-30
+feed: 2024-10-29
 ---
 
 Noble cousins,
