@@ -66,7 +66,7 @@ In looking to follow period inspiration, there was obviously the London guild ar
 
 <div style="text-align: center;">
   <figure class="figure">
-    <img src="/baelfyr/2024-10/writ/01.png" width="500" class="figure-img rounded"/>
+    <img src="/baelfyr/2024-10/writ/01.jpg" width="500" class="figure-img rounded"/>
   </figure>
 </div>
 The combined arms of the Armourers and Braziers Guild of the City of London (modern rendition in colour)
