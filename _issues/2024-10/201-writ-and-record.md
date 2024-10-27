@@ -1,7 +1,7 @@
 ---
 title: The Writ and Record
 author: Nicholas de Estlecce
-feed: 2024-10-10
+feed: 2024-10-31
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: From their Highnesses
-feed: 2024-10-01
+feed: 2024-10-28
 ---
 
 Unto the populace of Insulae Draconis greetings.
