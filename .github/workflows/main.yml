@@ -48,14 +48,14 @@ jobs:
           sed -i 's/issue:/issue: ${{ env.issue }}/' ${{ format('{0}/baelfyr/{1}/index.md', github.workspace, env.issue) }}
       - name: Create content
         run: |
-          mkdir ${{ format('{0}/issues/{1}', github.workspace, env.issue) }}
-          cp ${{ format('{0}/template/issues/*', github.workspace) }} ${{ format('{0}/issues/{1}/', github.workspace, env.issue) }}
-          sed -i 's/issue:/issue: ${{ env.issue }}/' ${{ format('{0}/issues/{1}/*', github.workspace, env.issue) }}
-          sed -i 's/anno:/anno: ${{ steps.anno.outputs.anno }}/' ${{ format('{0}/issues/{1}/000-preamble.md', github.workspace, env.issue) }}
-          sed -i 's/volume:/volume: ${{ steps.volume.outputs.volume }}/' ${{ format('{0}/issues/{1}/000-preamble.md', github.workspace, env.issue) }}
-          sed -i 's/month:/month: \"${{ steps.date.outputs.date }}\"/' ${{ format('{0}/issues/{1}/000-preamble.md', github.workspace, env.issue) }}
-          sed -i 's/feed:/feed: ${{ steps.date.outputs.feed-date01 }}/' ${{ format('{0}/issues/{1}/001-from-their-highnesses.md', github.workspace, env.issue) }}
-          sed -i 's/feed:/feed: ${{ steps.date.outputs.feed-date02 }}/' ${{ format('{0}/issues/{1}/002-from-the-seneschal.md', github.workspace, env.issue) }}
+          mkdir ${{ format('{0}/_issues/{1}', github.workspace, env.issue) }}
+          cp ${{ format('{0}/template/issues/*', github.workspace) }} ${{ format('{0}/_issues/{1}/', github.workspace, env.issue) }}
+          sed -i 's/issue:/issue: ${{ env.issue }}/' ${{ format('{0}/_issues/{1}/*', github.workspace, env.issue) }}
+          sed -i 's/anno:/anno: ${{ steps.anno.outputs.anno }}/' ${{ format('{0}/_issues/{1}/000-preamble.md', github.workspace, env.issue) }}
+          sed -i 's/volume:/volume: ${{ steps.volume.outputs.volume }}/' ${{ format('{0}/_issues/{1}/000-preamble.md', github.workspace, env.issue) }}
+          sed -i 's/month:/month: \"${{ steps.date.outputs.date }}\"/' ${{ format('{0}/_issues/{1}/000-preamble.md', github.workspace, env.issue) }}
+          sed -i 's/feed:/feed: ${{ steps.date.outputs.feed-date01 }}/' ${{ format('{0}/_issues/{1}/001-from-their-highnesses.md', github.workspace, env.issue) }}
+          sed -i 's/feed:/feed: ${{ steps.date.outputs.feed-date02 }}/' ${{ format('{0}/_issues/{1}/002-from-the-seneschal.md', github.workspace, env.issue) }}
       - name: Commit changes
         run: |
           git config --global user.name ${{ github.actor }}
