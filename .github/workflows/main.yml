@@ -1,0 +1,65 @@
+name: Create New Baelfyr Issue
+run-name: ${{ github.actor }} created issue ${{ github.ref_name }}
+on:
+  create
+permissions:
+  contents: write
+env:
+  issue: ${{ github.ref_name }}
+jobs:
+  create-baelfyr-issue:
+    name: Create Issue ${{ github.ref_name }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Get current date
+        id: date
+        run: |
+            echo "date=$(date +"%B %Y")" >> $GITHUB_OUTPUT
+            echo "feed-date01=$(date -d "+7 days" +"%Y-%m-%d")" >> $GITHUB_OUTPUT
+            echo "feed-date02=$(date -d "+8 days" +"%Y-%m-%d")" >> $GITHUB_OUTPUT
+      - name: Get current society year
+        id: year
+        run: |
+            nowish=$(date +%s)
+            scastart=$(date +%s -d 19660501)
+            diff=$(($nowish - $scastart))
+            yearscale=60*60*24*365
+            echo "anno=$((($diff + $yearscale - 1) / yearscale))" >> $GITHUB_OUTPUT
+      - name: Get roman numeral
+        id: anno
+        run: |
+            echo "anno=$(curl -s -d 'text=${{ steps.year.outputs.anno }}' https://api.funtranslations.com/translate/roman-numerals.json | jq -r '.contents.translated');" >> $GITHUB_OUTPUT
+      - name: Read volume number
+        id: volume
+        run: |
+            oldvolume=$(<${{ format('{0}/template/volume_number', github.workspace) }})
+            newvolume=$(($oldvolume + 1))
+            echo $newvolume>${{ format('{0}/template/volume_number', github.workspace) }}
+            echo "volume=$newvolume" >> $GITHUB_OUTPUT
+      - name: Update inex.html
+        run: |
+          sed -i 's/issue: ....-../issue: ${{ env.issue }}/' index.html
+      - name: Create index.md
+        run: |
+          mkdir ${{ format('{0}/baelfyr/{1}', github.workspace, env.issue) }}
+          cp ${{ format('{0}/template/baelfyr/index.md', github.workspace) }} ${{ format('{0}/baelfyr/{1}/', github.workspace, env.issue) }}
+          sed -i 's/issue:/issue: ${{ env.issue }}/' ${{ format('{0}/baelfyr/{1}/index.md', github.workspace, env.issue) }}
+      - name: Create content
+        run: |
+          mkdir ${{ format('{0}/issues/{1}', github.workspace, env.issue) }}
+          cp ${{ format('{0}/template/issues/*', github.workspace) }} ${{ format('{0}/issues/{1}/', github.workspace, env.issue) }}
+          sed -i 's/issue:/issue: ${{ env.issue }}/' ${{ format('{0}/issues/{1}/*', github.workspace, env.issue) }}
+          sed -i 's/anno:/anno: ${{ steps.anno.outputs.anno }}/' ${{ format('{0}/issues/{1}/000-preamble.md', github.workspace, env.issue) }}
+          sed -i 's/volume:/volume: ${{ steps.volume.outputs.volume }}/' ${{ format('{0}/issues/{1}/000-preamble.md', github.workspace, env.issue) }}
+          sed -i 's/month:/month: \"${{ steps.date.outputs.date }}\"/' ${{ format('{0}/issues/{1}/000-preamble.md', github.workspace, env.issue) }}
+          sed -i 's/feed:/feed: ${{ steps.date.outputs.feed-date01 }}/' ${{ format('{0}/issues/{1}/001-from-their-highnesses.md', github.workspace, env.issue) }}
+          sed -i 's/feed:/feed: ${{ steps.date.outputs.feed-date02 }}/' ${{ format('{0}/issues/{1}/002-from-the-seneschal.md', github.workspace, env.issue) }}
+      - name: Commit changes
+        run: |
+          git config --global user.name ${{ github.actor }}
+          git config --global user.email ${{ format('{0}@users.noreply.github.com', github.actor) }}
+          git add -A
+          git commit -m "Create issue ${{ env.issue }}"
+          git push
