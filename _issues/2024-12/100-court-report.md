@@ -6,15 +6,6 @@ feed: 2024-12-27
 This is a court report for Champions of Lough Devnaree XVII. Champions
 of Lough Devnaree XVII was organised by Dun in Mara.
 
-This is a new court report
-
-Event published on the kingdom online calendar: Published
-Event published in the Dragon’s Tale: Fri Sep 27 2024 01:00:00
-GMT+0100 (Irish Standard Time)
-Event published on the Insulae Draconis online calendar: Insulae Draconis
-
-Insulae Draconis court was held by Agnes Boncuer.
-
 This court report is for court on 28 Sep 2024, it's identified as
 Saturday Evening Court.
 
